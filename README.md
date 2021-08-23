@@ -1,10 +1,6 @@
 # SkyPoint Platform
 
-SkyPoint redefines data privacy, protection and insights.
-
-SkyPoint helps organizations manage and protect their customer data, meet data privacy and protection regulations like the CCPA, CPRA and GDPR, and leverage unmatched coverage for all data across all data stores.
-
-By bringing data science and purpose-built technology to data privacy, protection with sensitive data vault and customer 360, SkyPoint enables organizations to discover and map all types of data from all enterprise data sources; automatically classify, correlate, and catalog identity & entity data into profiles; manage and protect enterprise data with advanced data intelligence; and automate data privacy and protection. 
+SkyPoint is an AI-driven customer data platform that brings connectivity to all of your insights and experiences. Your teams are well-equipped with real-time data that’s compliant, accurate, and connected.
 
 ## Key Benefits:
 
