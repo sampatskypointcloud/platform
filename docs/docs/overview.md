@@ -42,6 +42,8 @@ SkyPoint Cloud is a customer data platform that champions privacy and compliance
 
 - **Platform** : It consists of notifications, schedule, instance, product, activity stream.
 
+
+
   - *Tenant* : It displays all the basic details of the tenant with all the services assigned to it.
 
   - *Instance* : It displays the various details of the instance such as Tenant Name, Tenant website URL, Tenant identifier, Instance name, Instance identifier.
