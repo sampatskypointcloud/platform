@@ -22,4 +22,4 @@ In today’s business landscape, where digital transformation is constantly acce
 
 2. Build customer trust and reduce compliance risk: Understand how customers want to engage with your company, while reducing compliance risks, through an enterprise data privacy (CCPA, GDPR etc.) and governance foundation.
 
-3. Boost customer acquisition, retention, and loyalty: Activate the right customer data, based on its purpose and consent, and deliver it to the right systems in real time for personalized engagements.
+3. Boost customer acquisition, retention, and loyalty: Activate the right customer data, based on its purpose and consent, and deliver it to the right systems in real time for personalized engagements./
