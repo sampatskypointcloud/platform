@@ -1,10 +1,15 @@
-# Release Notes v1.1
+# What's new in the SkyPoint platform
 
-- These release notes provide information about new features and updates that are included in skypointcloud application.
+We're excited to announce our newest updates and releases! This article summarizes public preview features, general availability enhancements, and feature updates. To see the long-term feature plans see the bottom of this page.
+
+> [!TIP]
+> To submit feature requests and product suggestions, email us at support@skypointcloud.com or use Github issues.
+
+# October 2021 Updates 
+
+The updates in September 2021 include a new features, performance upgrades, and bug fixes.
     
-
-## Release 2110 : October 22
-build:
+## Sprint 209 Full Release 
 
 ### Resolved Issues:
 1.Data, Insights and Actions get selected together on UI, only one should be shown as selected
@@ -47,7 +52,7 @@ build:
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/DuplicateRecords.png?raw=true)
 
-- **Export on Schedule**: Three types of schedulers have been enabled for export.
+- **Export on schedule**: Three types of schedulers have been enabled for export.
 1. On every system refresh
 2. Every day
 3. Every Week
@@ -63,7 +68,7 @@ Different time zones and timing can also be selected.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/copiedfeatures.png?raw=true)
 
-- **Instance Management history option**: History has been enabled for Instances.
+- **Instance management history option**: History has been enabled for Instances.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/InstanceHistory.png?raw=true)
 
