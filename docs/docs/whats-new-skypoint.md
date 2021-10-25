@@ -28,21 +28,9 @@ The updates in September 2021 include a new features, performance upgrades, and 
 
 - **UI changes for Settings** - Settings section view has been modified using Fluent UI.
 
-- **Cleanse your data by eliminating redundant records**: New feature has been added to remove the duplicate rows before mapping process. Steps to follow:
-1. Select the list of attributes to be considered under "Column Type".
-2. Record to keep has 3 options:
-    a. Most Recent (takes only date and int format in "Based on field")
-    b. Least Recent ( takes only date and int format in "Based on field")
-    c. Most Filled ("Based on field" remains disabled)
-3. Save and Run the Map process in order to see the source and unique record counts
+- **Cleanse your data by eliminating redundant records**: New feature has been added to remove the duplicate rows before mapping process. 
 
-- **Export on schedule**: Three types of schedulers have been enabled for export.
-
-1. On every system refresh
-2. Every day
-3. Every Week
-
-Different time zones and timing can also be selected.
+- **Export on schedule**: Three types of schedulers have been enabled for export. On every system refresh, every day and every week. Different time zones and timing can also be selected.
 
 - **Create a new Instance from existing one**: Copy from existing instance funtionality takes care of copying the configurations for dataflow, enrichment, entity, timelines, metrics, audience, association, stitch and export.
 
