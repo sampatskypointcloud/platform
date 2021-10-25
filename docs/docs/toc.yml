@@ -196,3 +196,7 @@
   items:
     - name: APIs
       href: api.md
+- name: Release Documentation
+  items:
+    - version: 1.1
+      href: release1.md
