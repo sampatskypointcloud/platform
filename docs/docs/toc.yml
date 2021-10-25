@@ -1,5 +1,7 @@
 - name: Overview
   href: overview.md
+- name: New and updated features
+  href: release1.md
 - name: Getting Started 
   items:
     - name: Signup
@@ -196,7 +198,3 @@
   items:
     - name: APIs
       href: api.md
-- name: Release Documentation
-  items:
-    - version: 1.1
-      href: release1.md
