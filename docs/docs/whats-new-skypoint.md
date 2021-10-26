@@ -35,5 +35,7 @@ The updates in September 2021 include a new features, performance upgrades, and 
 - **Create a new Instance from existing one**: Copy from existing instance funtionality takes care of copying the configurations for dataflow, enrichment, entity, timelines, metrics, audience, association, stitch and export.
 
 - **Instance management history option**: History has been enabled for Instances.
+- 
+<img width="528" alt="InstanceHistory" src="https://user-images.githubusercontent.com/91518129/138894558-1da75154-41d2-4379-a584-f092644ccfee.PNG">
 
 - **FHIR Connector Support**: Support to import data from FHIR has been enabled in Dataflow. 
