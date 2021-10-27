@@ -1,4 +1,7 @@
 # Security
+
+We align to the NIST 800-207 standard for Zero Trust. This is the most vendor neutral, comprehensive standards, not just for government entities, but for any organization. It also encompasses other elements from organizations like Forrester’s ZTX and Gartner’s CARTA.
+ 
 This section is one of the key features for any platform as it ensures a secure and safe environment to work on data that is sensitive in all aspects. To provide security, there are certain roles defined to ensure that every user gets access to only those sections of the platform which they actually require preventing unncessary access to anyone.
 
 ## Security Roles
