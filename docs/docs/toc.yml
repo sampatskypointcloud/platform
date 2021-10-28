@@ -196,5 +196,7 @@
       href: billing.md
 - name: Application Development  
   items:
-    - name: APIs
+    - name: Developer Portal 
       href: api.md
+    - name: API References
+      href: https://skypointprodapim.developer.azure-api.net/apis
