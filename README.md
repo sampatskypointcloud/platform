@@ -20,7 +20,7 @@ Create and run business applications, workflows, build reports and dashboards us
 
 Understand how customers want to engage with your company, while reducing compliance risks, through an enterprise data privacy (CCPA, GDPR etc.) and governance foundation.
 
-## Data Mesh Architecture:
+## Platform Architecture:
 
 Many enterprises are investing in their next generation data lake, with the hope of democratizing data at scale to provide business insights and ultimately make automated intelligent decisions. Data platforms based on the data lake architecture have common failure modes that lead to unfulfilled promises at scale. To address these failure modes we need to shift from the centralized paradigm of a lake, or its predecessor data warehouse. 
 
