@@ -8,6 +8,32 @@ We're excited to announce our newest updates and releases! This article summariz
 # October 2021 Updates 
 
 The updates in September 2021 include a new features, performance upgrades, and bug fixes.
+
+## Sprint 210 mid-sprint Release
+
+### Resolved Issues:
+1. Skypoint Documentation link on the platform redirects to Overview page now. Previously user could only see Index page.
+2. UI issues for Big Query enrichment have been fixed. The count of records enriched and the enriched data values are correctly visible under Entities.
+3. UI issues for SFTP enrichment have been fixed. The count of records enriched and the enriched data values are correctly visible under Entities.
+
+#### Feature Updates: 
+
+**Customer 360**:
+
+- **UI changes for Timelines** - Timelines section view has been modified using Fluent UI.
+
+- **UI changes for Dashboard widgets** - Widgets on the Dashboard have been  modified using Fluent UI.
+
+- **View Instance Details** - Details for the Instance- Refresh cadence, Organization ID , Security group and Type are available for every Instance.
+
+- **Reset Functionality for Instance- CDP** - Now you can Reset CDP. Below options are available for Reset:
+1. "Reset everything" 
+2. "Keep all data sources" - Reset everything except data sources
+3. "Keep all datasource, settings for data unify and customer entity" - Delete everything except datasources , data unification and customer entity.
+
+- **Reset Functionality for Instance- Privacy Center** - Now you can Reset everything under Privacy Center.
+
+- **Reset Functionality for Instance- DataVault** - Now you can Reset everything under DataVault.
     
 ## Sprint 209 Full Release 
 
