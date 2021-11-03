@@ -24,17 +24,11 @@ The updates in September 2021 include a new features, performance upgrades, and 
 
 - **UI changes for Dashboard widgets** - Widgets on the Dashboard have been  modified using Fluent UI.
 
-- **View Instance Details** - Details for the Instances have been added- Refresh cadence, Organization ID , Security group and Type are available for every Instance.
+- **View Instance Details** - Details for the Instances have been added- Refresh cadence, Organization ID , Security group and Type are available for every Instance. User can further edit to add more fields in Instance details.
 
-- **Reset Functionality for Instance- CDP** - Now you can Reset CDP. Below options are available for Reset:
-1. "Reset everything" 
-2. "Keep all data sources" - Reset everything except data sources
-3. "Keep all datasource, settings for data unify and customer entity" - Delete everything except datasources , data unification and customer entity.
+- **Reset Functionality for Instances** - Reset functionality has been added under Instances. Three options are available for reset: **CDP data, Datavault data and Privacy center data**. Under CDP, further there are 3 options: 'Reset everything', 'Keep all dataflows', 'Keep all dataflows, settings for stitch and profile entity'.
 
-- **Reset Functionality for Instance- Privacy Center** - Now you can Reset everything under Privacy Center.
 
-- **Reset Functionality for Instance- DataVault** - Now you can Reset everything under DataVault.
-    
 ## Sprint 209 Full Release 
 
 ### Resolved Issues:
