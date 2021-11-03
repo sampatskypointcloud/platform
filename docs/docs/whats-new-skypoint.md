@@ -24,7 +24,7 @@ The updates in September 2021 include a new features, performance upgrades, and 
 
 - **UI changes for Dashboard widgets** - Widgets on the Dashboard have been  modified using Fluent UI.
 
-- **View Instance Details** - Details for the Instance- Refresh cadence, Organization ID , Security group and Type are available for every Instance.
+- **View Instance Details** - Details for the Instances have been added- Refresh cadence, Organization ID , Security group and Type are available for every Instance.
 
 - **Reset Functionality for Instance- CDP** - Now you can Reset CDP. Below options are available for Reset:
 1. "Reset everything" 
