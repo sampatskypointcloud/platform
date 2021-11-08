@@ -5,9 +5,27 @@ We're excited to announce our newest updates and releases! This article summariz
 > [!TIP]
 > To submit feature requests and product suggestions, email us at support@skypointcloud.com or use Github issues.
 
+
+# November 2021 Updates
+
+The updates in November 2021 include new features and bug fixes.
+
+## Sprint 210 Release
+
+#### Resolved Issues:
+1. UI issue related to incorrect header label for "Actions" under Insights > My Predictions has been fixed.
+
+#### Feature Updates
+**Customer 360**:
+
+- **Backup functionality for Instances** - Create and Restore Backup feature has been added for Instances. 
+
+- **Associations renamed to Relationships**- UI change for renaming associations to Relationships has been implemented.
+
+
 # October 2021 Updates 
 
-The updates in September 2021 include a new features, performance upgrades, and bug fixes.
+The updates in October 2021 include new features, performance upgrades, and bug fixes.
 
 ## Sprint 210 mid-sprint Release
 
