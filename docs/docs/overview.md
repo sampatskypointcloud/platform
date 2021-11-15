@@ -15,6 +15,9 @@ o	Cost cutting
 
 - **Data Privacy** : It centered around how data should be collected, stored, managed, and shared with any third parties, as well as compliance with the applicable privacy laws (such as California Consumer Privacy Act- CCPA or General Data Protection Regulation GDPR).    
  Skypoint cloud platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances ensuring data security.
+ 
+ ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Multitenant.png)
+ 
 - Once ingestion is done, the data goes through different processes such as Map, Match, ML match, Merge processes to draw valuable insights and convert the unstructured data into structured data.
 Left Navigation bar gives access to some of the key features such as:
   1. Home
