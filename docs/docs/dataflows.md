@@ -1,9 +1,12 @@
-# Data
+# Data Flows
+Data flow is the first step in integrating various data sources to SkyPoint cloud platform to create customer/patient segmentation, profiles, Audiences and Metrics. This can be accomplished using prebuilt or custom build connectors. The platform already supports 200+ connectors that allows ingestion of data from different data sources with more under various stages of development.
+The data connectors move data from a selected data source to Skypoint Customer 360 or Patient 360 through a series of filtering, formatting, and transformation process which is aligned to Common Data model (CDM) and FHIR standards respectively
 
-## Dataflows
-- Dataflow let you integrate your data from different sources.
-
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/tableconnector.jpg?raw=true)
+## Following functions performed by connector includes:
+-	Understanding the data source schema, attributes
+-	Data transformation
+-	Data ingestion
+-	Data extraction
 
 ### Add Dataflow
 1. Click on **Add Dataflow** on the right top corner of the screen.
