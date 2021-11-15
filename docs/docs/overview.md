@@ -11,6 +11,7 @@ o	Mitigating Risk
 o	Planning
 o	Cost cutting
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Dashboard.png)
 
 - **Data Privacy** : It centered around how data should be collected, stored, managed, and shared with any third parties, as well as compliance with the applicable privacy laws (such as California Consumer Privacy Act- CCPA or General Data Protection Regulation GDPR).    
  Skypoint cloud platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances ensuring data security.
