@@ -1,8 +1,11 @@
-# Data
-
-## Entities
-
-An entity is a collection of attributes and metadata that defines a concept (such as Account or Contact) and can be defined by any data producer. An entity may match the schema of a standard entity, defined as part of the Common Data Model and listed in the [GitHub repository](https://aka.ms/cdmrepo). Entities that don’t match one of the standard shapes are said to be custom entities. All entities in the data lake ingested through dataflows of this instance are visible in this section.
+# Entities
+An Entity is an object or component of data . Examples of an entity are a single person, single product, or single organization.
+A design tool that allows database administrators to view the relationships between several entities is called the entity relationship diagram (ERD).
+An entity may match the schema of a standard entity, defined as part of the Common Data Model and listed in the GitHub repository. Entities that don’t match one of the standard shapes are said to be custom entities.
+## Entity type
+A person, organization, object type, or concept about which information is stored. Describes the type of the information that is being mastered. An entity type typically corresponds to one or several related tables in database.
+## Attribute
+A characteristic or trait of an entity type that describes the entity, for example, the Person entity type has the Date of Birth attribute. 
 
 After complete success over the connection establishment and the data ingestion, you will be able to see the different entities that were ingested from the dataflow. They are distinctively shown in a tabular format with some important attributes as names, total records, Source, last refresh date and entity type (by default is CUSTOM).
 
