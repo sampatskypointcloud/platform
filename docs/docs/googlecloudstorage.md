@@ -4,18 +4,27 @@ Dataflows allows to integrate all your data sources by ingesting data from the s
 
 **Step 01 - Add Dataflow**
 
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Add_Dataflows.png)
+
 - Click on **Add dataflows** at the top of the screen.
 
   - Enter a Name for the dataflow (name should start with letter and it should contain only letter and numbers, space and special characters are not allowed)
   - Click Next.
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Choose_connector.png)
+
   - Select the connector using the search bar at top right corner of the screen.
   - Click on Google Cloud Storage (S3 API).
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Choose_GCS.png)
 
 
 **Step 02 - Access Source Data**
 
 - To allow **skypointcloud** access your Google Cloud Storage account, you will need the following details:
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/add_Details.png)
 
 - **Access Key ID** – (obtained from Google Cloud Platform, login using service account)
 - **Secret Access Key** – (obtained from GCP, login using service account)
@@ -27,16 +36,27 @@ Dataflows allows to integrate all your data sources by ingesting data from the s
 - Select the folder you want to download the data from the source.
 - Click Save.
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/File_loaded.png)
+
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Details_added.png)
+
 Client will create a service account and the connection details for the service account will be shared using which login is allowed to the Google Cloud Platform.
 
 - **Generate the JSON file:**
 
 Log on to **Google Cloud Platform** using service account credentials, navigate to **Service Accounts** and click on the three dots to locate **Manage Details**.
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/GCP_Manage_Details.png)
+
 Click on **Manage Details** and find **keys** and **Create New Key**
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Key_creation.png)
 
 
 Select the format as JSON and click on Create. Once the creation is completed, it will be downloaded and the same can be uploaded to **Service URL** while creating the Dataflow. This file contains configuration details.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/JSON_file.png)
 
 Create roles and assign permissions to the roles which grants access to the buckets -to list and get the buckets.
 
@@ -53,6 +73,8 @@ The first 2 permissions are available in Storage Object Viewer Role.
 The 3rd permission can be availed by creating a new Custom Role with only the 3rd permission.
 
 Once you select the Storage path you will see a notification Data loaded successfully.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Data_Loaded.png)
 
 Data from the source will be loaded to the table with headers File Name, Entity, Name, Datetime Format, Delimiter, First Row as Header, Advanced Settings.
 
