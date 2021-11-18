@@ -11,6 +11,8 @@ On our platform, we have divided Roles into 4 categories:
 3. Instance Admin: Permission to view, edit and manage current instance.
 4. Tenant Admin: Permission to view, edit and manage current tenant and all of its instances. 
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/security.png)
+
 ### Permissive actions for a Viewer
 1. Explore insight on the Home Page.
 
