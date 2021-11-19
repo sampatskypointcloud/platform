@@ -12,29 +12,14 @@ SkyPoint is the industry leading customer data platform, zero trust data vault, 
 7. SkyPoint Activate: Capabilities including audiences, metrics, export and API developer portal. 
 8. SkyPoint Automate: Automate workflows, build power apps, build dashboards using SkyPoint Power BI, Power App, Power Automate and Teams connectors. 
 
-## SkyPoint features:
+## SkyPoint platform architecture:
 
-- **Data Flow** : By ingesting data via 200+ connectors across different domains like healthcare, Ecommerce, Retail and Hospitality etc. and providing valuable data insights. These data insight helps the customer in achieving following:
-o	Operational Efficiency
-o	Profits
-o	Consumerization 
-o	Productivity
-o	Mitigating Risk 
-o	Planning
-o	Cost cutting
-
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Dashboard.png)
-
-- **Data Privacy** : It centered around how data should be collected, stored, managed, and shared with any third parties, as well as compliance with the applicable privacy laws (such as California Consumer Privacy Act- CCPA or General Data Protection Regulation GDPR).
-
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Domains.jpg)
-
- Skypoint cloud platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances ensuring data security.
+SkyPoint platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances.
  
  ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Multitenant.png)
  
-- Once ingestion is done, the data goes through different processes such as Map, Match, ML match, Merge processes to draw valuable insights and convert the unstructured data into structured data.
-Left Navigation bar gives access to some of the key features such as:
+SkyPoint Studio's left navigation bar gives access to some of the key features such as:
+
   1. Home
   2. Data
   3. Privacy
@@ -43,9 +28,11 @@ Left Navigation bar gives access to some of the key features such as:
   6. Settings
 
 ## **SkyPoint platform glossary**
+
 - **Tenants** : Each customer is called a Tenant.
 - **Instances** : You can consider them as subsidiaries of a single client. As soon as you create an account on our platform, a default instance is created for you namely Sandbox.
 - **Dataflows (Integrations - Import)** : It allows you to ingest data from all your sources, transform and load into the data lake complying with the Common Data Model (CDM).
+- - **Datavaults** : Zero trust data privacy vault with compliance to Common Data Model (CDM).
 - **Channels** : They are the visitor touchpoints that you want to monitor with SkyPointCloud.
 - **Entities** : Individual data sources that are present in the dataflows.
 - **Stitch** : Data Processing is performed in this section. It consists of 3 sub-sections: Map, Match & Merge.
