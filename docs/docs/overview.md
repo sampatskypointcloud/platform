@@ -1,7 +1,7 @@
 # Overview
 SkyPoint is the industry leading customer data platform, zero trust data vault, data privacy and predictive insights solution for customer centric brands.
 
-## Skypoint platform has the following products:
+## SkyPoint platform has the following products:
 
 1.	SkyPoint Dataflow: Data import at scale via integrations, data quality, data transformations to Common Data Model (CDM) entities, semantic mapping and IAM for privacy & security etc. from 100s of data sources. 
 2. SkyPoint Resolve: AI-powered identity resolution.
@@ -12,7 +12,7 @@ SkyPoint is the industry leading customer data platform, zero trust data vault, 
 7. SkyPoint Activate: Capabilities including audiences, metrics, export and API developer portal. 
 8. SkyPoint Automate: Automate workflows, build power apps, build dashboards using SkyPoint Power BI, Power App, Power Automate and Teams connectors. 
 
-## Skypoint features:
+## SkyPoint features:
 
 - **Data Flow** : By ingesting data via 200+ connectors across different domains like healthcare, Ecommerce, Retail and Hospitality etc. and providing valuable data insights. These data insight helps the customer in achieving following:
 o	Operational Efficiency
@@ -42,7 +42,7 @@ Left Navigation bar gives access to some of the key features such as:
   5. Action
   6. Settings
 
-## **Skypoint cloud platform glossary**
+## **SkyPoint platform glossary**
 - **Tenants** : Each customer is called a Tenant.
 - **Instances** : You can consider them as subsidiaries of a single client. As soon as you create an account on our platform, a default instance is created for you namely Sandbox.
 - **Dataflows (Integrations - Import)** : It allows you to ingest data from all your sources, transform and load into the data lake complying with the Common Data Model (CDM).
