@@ -1,8 +1,20 @@
 # Overview
-SkyPoint unifies fragmented customer data from multiple systems and applications into comprehensive “customer 360” profiles and provides business and technology users with the tools to secure, govern, and access that data. 
-## Skypoint cloud is a Privacy first customer data platform having following features:
+SkyPoint is the industry leading customer data platform, zero trust data vault, data privacy and predictive insights solution for customer centric brands.
 
-- **Data enhancement** : By ingesting data via 200+ connectors across different domains like healthcare, Ecommerce, Retail and Hospitality etc. and providing valuable data insights. These data insight helps the customer in achieving following:
+## Skypoint platform has the following products:
+
+o	SkyPoint Dataflow: Data import at scale via integrations, data quality, data transformations to Common Data Model (CDM) entities, semantic mapping and IAM for privacy & security etc. from 100s of data sources. 
+o	SkyPoint Resolve: AI-powered identity resolution.
+o	SkyPoint Profile: 360-degree view of the customer including customer 360 profile, timelines and enrichment capabalities. 
+o	SkyPoint Predict: Predict customer needs from unified data, ML models built in and ability to integrate custom models.
+o	SkyPoint Vault: Zero trust data privacy vault with compliance to Common Data Model (CDM). 
+o	SkyPoint Empower: Customer consent management and data privacy compliance regulations automation (CCPA, GDPR etc.).
+o	SkyPoint Activate: Capabilities including audiences, metrics, export and API developer portal. 
+o	SkyPoint Automate: Automate workflows, build power apps, build dashboards using SkyPoint Power BI, Power App, Power Automate and Teams connectors. 
+
+## Skypoint features:
+
+- **Data Flow** : By ingesting data via 200+ connectors across different domains like healthcare, Ecommerce, Retail and Hospitality etc. and providing valuable data insights. These data insight helps the customer in achieving following:
 o	Operational Efficiency
 o	Profits
 o	Consumerization 
