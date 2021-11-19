@@ -32,7 +32,7 @@ SkyPoint Studio's left navigation bar gives access to some of the key features s
 - **Tenants** : Each customer is called a Tenant.
 - **Instances** : You can consider them as subsidiaries of a single client. As soon as you create an account on our platform, a default instance is created for you namely Sandbox.
 - **Dataflows (Integrations - Import)** : It allows you to ingest data from all your sources, transform and load into the data lake complying with the Common Data Model (CDM).
-- - **Datavaults** : Zero trust data privacy vault with compliance to Common Data Model (CDM).
+- **Datavaults** : Zero trust data privacy vault with compliance to Common Data Model (CDM).
 - **Channels** : They are the visitor touchpoints that you want to monitor with SkyPointCloud.
 - **Entities** : Individual data sources that are present in the dataflows.
 - **Stitch** : Data Processing is performed in this section. It consists of 3 sub-sections: Map, Match & Merge.
