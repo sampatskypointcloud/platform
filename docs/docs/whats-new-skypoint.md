@@ -22,11 +22,11 @@ The updates in November 2021 include new features and bug fixes.
 
 ## Skypoint Profile:
 
-- ** Big query enrichment possible with only key validation** - Big query enrichment connection can be verified using Key file, project id and email id. There is no requirement to add Json file for validation.
+- **Big query enrichment possible with only key validation** - Big query enrichment connection can be verified using Key file, project id and email id. There is no requirement to add Json file for validation.
 
--** UI changes for enrichment** - UI for enrichment has been modified using Fluent UI.
+- **UI changes for enrichment** - UI for enrichment has been modified using Fluent UI.
 
--** UI changes for entities** - UI for entities, attribute and data has been modified using Fluent UI.
+- **UI changes for entities** - UI for entities, attribute and data has been modified using Fluent UI.
 
 ## Skypoint Data Mesh:
 
