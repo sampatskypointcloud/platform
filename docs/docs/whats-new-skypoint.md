@@ -14,11 +14,13 @@ The updates in November 2021 include new features and bug fixes.
 
 #### Resolved Issues:
 1. Pagination has been removed and breadcrumbs have been added on UI in **Dataflow** when adding new connectors.
-2.UI bug fixed for entities not showing Total Record count.
+2. UI issues in entities section have been fixed.
+  a. Total record count under entities is now visible. 
+  b. Filter option for Actions has been removed.
 
-#### Feature Updates
+#### Feature Upd ates
 
-**Skypoint Profile**:
+##### Skypoint Profile:
 
 - **Big query enrichment possible with only key validation** - Big query enrichment connection can be verified using Key file, project id and email id. There is no requirement to add Json file for validation.
 
@@ -26,14 +28,14 @@ The updates in November 2021 include new features and bug fixes.
 
 -**UI changes for entities** - UI for entities, attribute and data has been modified using Fluent UI.
 
-**Skypoint Data Mesh**:
+##### Skypoint Data Mesh:
 
 -**Tapin2 connector** - Tapin2 connector support has been added in Dataflow section.
 
 -**Label inactive integrations** - Any datasource integrations which are not yet enabled show "Coming Soon" on hover.
 
 
-**Skypoint Predict**:
+##### Skypoint Predict:
 
 -**SkyPoint Predict**: UI for Prediction has been modified using Fluent UI.
 
