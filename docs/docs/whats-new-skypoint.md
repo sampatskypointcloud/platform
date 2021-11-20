@@ -18,7 +18,7 @@ The updates in November 2021 include new features and bug fixes.
   a. Total record count under entities is now visible. 
   b. Filter option for Actions has been removed.
 
-#### Feature Upd ates
+#### Feature Updates
 
 ##### Skypoint Profile:
 
