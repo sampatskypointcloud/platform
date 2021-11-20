@@ -10,6 +10,36 @@ We're excited to announce our newest updates and releases! This article summariz
 
 The updates in November 2021 include new features and bug fixes.
 
+## Sprint 211 Release
+
+#### Resolved Issues:
+1. Pagination has been removed and breadcrumbs have been added on UI in **Dataflow** when adding new connectors.
+2.UI bug fixed for entities not showing Total Record count.
+
+#### Feature Updates
+
+**Skypoint Profile**:
+
+- **Big query enrichment possible with only key validation** - Big query enrichment connection can be verified using Key file, project id and email id. There is no requirement to add Json file for validation.
+
+-**UI changes for enrichment** - UI for enrichment has been modified using Fluent UI.
+
+-**UI changes for entities** - UI for entities, attribute and data has been modified using Fluent UI.
+
+**Skypoint Data Mesh**:
+
+-**Tapin2 connector** - Tapin2 connector support has been added in Dataflow section.
+
+-**Label inactive integrations** - Any datasource integrations which are not yet enabled show "Coming Soon" on hover.
+
+
+**Skypoint Predict**:
+
+-**SkyPoint Predict**: UI for Prediction has been modified using Fluent UI.
+
+--**UI changes for Custom Models** - UI for custom models has been modified using Fluent UI.
+
+
 ## Sprint 210 Release
 
 #### Resolved Issues:
