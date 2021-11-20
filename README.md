@@ -1,6 +1,6 @@
 ## SkyPoint Platform
 
-SkyPoint is the industry leading privacy-first customer data platform and zero trust data vault solution for customer centric brands.
+SkyPoint is an industry leading customer data platform (CDP), zero trust data privacy vault, privacy compliance automation, analytics and AI for customer centric brands in several industries including healthcare, retail, hospitality, entertainment and financial services.
 
 ## Key Benefits:
 
