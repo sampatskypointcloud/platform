@@ -1,14 +1,14 @@
 # Overview
-SkyPoint is the industry leading privacy-first customer data platform (CDP) and zero trust data vault solution for customer centric brands.
+SkyPoint is an industry leading customer data platform (CDP), zero trust data privacy vault, privacy compliance automation, analytics and AI for customer centric brands in several industries including healthcare, retail, hospitality, entertainment and financial services.   
 
 ## SkyPoint platform has the following products:
 
 1.	SkyPoint Dataflow: Data import via integrations, data quality, data transformations to Common Data Model (CDM) entities and semantic data labeling. 
-2. SkyPoint Resolve: AI-powered identity resolution at scale and enjoy the most precise view of every customer.
-3. SkyPoint Profile: 360-degree view of the customer including customer 360 profile, timelines and enrichment capabalities. 
+2. SkyPoint Resolve: Machine learning and rule based customer identity resolution & management.
+3. SkyPoint Profile: 360-degree view of the customer including profile, timelines and enrichment capabalities. 
 4. SkyPoint Predict: Predict customer needs from unified data, ML models built in and ability to integrate custom models.
-5. SkyPoint Vault:  Zero trust data privacy vault with compliance to Common Data Model (CDM). 
-6. SkyPoint Empower: Customer consent management and data privacy compliance regulations automation (CCPA, GDPR etc.).
+5. SkyPoint Vault:  Zero trust data privacy vaults deliver security, compliance and governance via a simple API. 
+6. SkyPoint Empower: Customer consent management and effortless compliance with global privacy laws (CCPA, GDPR).
 7. SkyPoint Activate: Capabilities including audiences, metrics, export and API developer portal. 
 8. SkyPoint Automate: Automate workflows, build power apps, build dashboards using SkyPoint Power BI, Power App, Power Automate and Teams connectors.
 
