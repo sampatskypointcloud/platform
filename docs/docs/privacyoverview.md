@@ -1,8 +1,9 @@
 # Overview
-This section manages the privacy associations with the tenant. It has subsections that demonstrates the different features appended to the Privacy section in order to work in a more efficient and secure way. This basically allows us to create a secure and understandable environment for any type to data to be handled and processed. One of the most important key feature to any successful idea/worflow is how secure it is, whether or not an end user has to worry about anything regarding his/her data.
-Below are some of the subsections that help us in carrying out a secure way of handling data.
+This section manages data privacy associated with the tenant. It has subsections that demonstrates different features as part of the Privacy center for atmost data security and privacy. This basically allows us to create a secure and understandable environment for any type to data to be handled and processed. One of the most important feature of any successful business depends on how securely is customers data managed such that the end user doesnt have to worry about the privacy of their data.
 
-1. Data Maps: The mapping of the entities based on requirement and creating a more understandable data for processing. It also handles the retaining the data that has been processed. An important feature inside Data Maps is PII Map. It helps in handling the profiling of every user inside the data. As the name suggests, Personality Identifiable Information has everything to clearly distinguish between different users based on some entity present in their data.
+Below are some of the subsections that help us in securely handle your customers data.
+
+1. Data Maps: The mapping of the entities based on requirement and creating a more understandable data for processing. It also handles the retaining the data that has been processed. An important feature inside Data Maps is PII Map. It helps in handling the profiling of every user inside the data. As the name suggests, Personally Identifiable Information has everything to clearly distinguish a customer.
 
 2. Setting up Privacy Center: The platform provides the user an ability to determine the policies that any tenant possesses. The user has the right to know and decide what all actions can be taken over his/her data.
 
