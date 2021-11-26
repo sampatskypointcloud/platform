@@ -10,6 +10,26 @@ We're excited to announce our newest updates and releases! This article summariz
 
 The updates in November 2021 include new features and bug fixes.
 
+## Sprint 212A Release
+
+#### Resolved Issues:
+
+##### Skypoint Dataflow:
+1. UI issue for Tapin2 connector logo has been fixed.
+2. Salesforce Marketing Cloud: User can now download only the required activities. Previously, all activities in the list were downloaded irrespective of the selection.
+3. Floating header issue in entities has been fixed.
+
+##### Skypoint Empower:
+1. Data settings tab is now working fine under Privacy Center. The error "Something went wrong" has been fixed.
+
+##### Skypoint Activate:
+1. Decimal type attributes can now be added when creating business metrics.
+
+##### Skypoint Profile:
+1. Navigation issues while transitioning different states during configuring enrichments has been fixed.
+2. New Connection in Enrichment can now be saved. "Save" was shown disabled even after successful validation of the connection.
+3. Activity Stream in Dashboard now displays activies in reverse chronological order.
+
 ## Sprint 211 Release
 
 #### Resolved Issues:
