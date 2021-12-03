@@ -11,19 +11,19 @@ The updates in December 2021 include new features and bug fixes.
 
 ## Sprint 212 Release
 
-#### Resolved Issues:
+### Resolved Issues:
 
-##### SkyPoint Dataflow:
+#### SkyPoint Dataflow:
 1. Created date in Dataflows has been fixed to reflect the created date time instead of showing current date time.
 
-##### SkyPoint Automate:
+#### SkyPoint Automate:
 1. Pipeline failures when running Scheduler has been fixed.
 2. Issue while disabling the scheduler has been fixed.
 
-##### SkyPoint Predict:
+#### SkyPoint Predict:
 1. "Preview" text has been removed from Prediction Models.
 
-##### Skypoint Activate:
+#### Skypoint Activate:
 1. "Preview" text has been removed from Audience.
 
 ### Feature Updates
@@ -42,35 +42,35 @@ The updates in November 2021 include new features and bug fixes.
 
 ## Sprint 212A Release
 
-#### Resolved Issues:
+### Resolved Issues:
 
-##### SkyPoint Dataflow:
+#### SkyPoint Dataflow:
 1. UI issue for Tapin2 connector logo has been fixed.
 2. Salesforce Marketing Cloud: User can now download only the required activities. Previously, all activities in the list were downloaded irrespective of the selection.
 3. Floating header issue in entities has been fixed.
 
-##### SkyPoint Empower:
+#### SkyPoint Empower:
 1. Data settings tab is now working fine under Privacy Center. The error "Something went wrong" has been fixed.
 
-##### SkyPoint Activate:
+#### SkyPoint Activate:
 1. Decimal type attributes can now be added when creating business metrics.
 
-##### SkyPoint Profile:
+#### SkyPoint Profile:
 1. Navigation issues while transitioning different states during configuring enrichments has been fixed.
 2. New Connection in Enrichment can now be saved. "Save" was shown disabled even after successful validation of the connection.
 3. Activity Stream in Dashboard now displays activies in reverse chronological order.
 
 ## Sprint 211 Release
 
-#### Resolved Issues:
+### Resolved Issues:
 1. Pagination has been removed and breadcrumbs have been added on UI in **Dataflow** when adding new connectors.
 2. UI issues in entities section have been fixed.
   - Total record count under entities is now visible. 
   - Filter option for Actions has been removed.
 
-#### Feature Updates
+### Feature Updates
 
-## SkyPoint Profile:
+#### SkyPoint Profile:
 
 - **Big query enrichment possible with only key validation** - Big query enrichment connection can be verified using Key file, project id and email id. There is no requirement to add Json file for validation.
 
@@ -78,14 +78,14 @@ The updates in November 2021 include new features and bug fixes.
 
 - **UI changes for entities** - UI for entities, attribute and data has been modified using Fluent UI.
 
-## Skypoint Data Mesh:
+#### Skypoint Data Mesh:
 
 - **Tapin2 connector** - Tapin2 connector support has been added in Dataflow section.
 
 - **Label inactive integrations** - Any datasource integrations which are not yet enabled show "Coming Soon" on hover.
 
 
-## Skypoint Predict:
+#### Skypoint Predict:
 
 - **SkyPoint Predict**: UI for Prediction has been modified using Fluent UI.
 
@@ -94,10 +94,10 @@ The updates in November 2021 include new features and bug fixes.
 
 ## Sprint 210 Release
 
-#### Resolved Issues:
+### Resolved Issues:
 1. UI issue related to incorrect header label for "Actions" under Insights > My Predictions has been fixed.
 
-#### Feature Updates
+### Feature Updates
 **Customer 360**:
 
 - **Backup functionality for Instances** - Create and Restore Backup feature has been added for Instances. 
@@ -116,7 +116,7 @@ The updates in October 2021 include new features, performance upgrades, and bug 
 2. UI issues for Big Query enrichment have been fixed. The count of records enriched and the enriched data values are correctly visible under Entities.
 3. UI issues for SFTP enrichment have been fixed. The count of records enriched and the enriched data values are correctly visible under Entities.
 
-#### Feature Updates: 
+### Feature Updates: 
 
 **Customer 360**:
 
@@ -136,7 +136,7 @@ The updates in October 2021 include new features, performance upgrades, and bug 
 2.Platform Level : Configured Audiences Not showing Up In Audience Page : Error 500
 3.Unwanted text if0/00 is displayed on menu bar in place of sidebar collapse option
 
-#### Feature Updates: 
+### Feature Updates: 
 
 **Customer 360**:
 
