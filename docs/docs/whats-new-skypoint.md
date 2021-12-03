@@ -5,6 +5,36 @@ We're excited to announce our newest updates and releases! This article summariz
 > [!TIP]
 > To submit feature requests and product suggestions, email us at support@skypointcloud.com or use Github issues.
 
+# December 2021 Updates
+
+The updates in December 2021 include new features and bug fixes.
+
+## Sprint 212 Release
+
+#### Resolved Issues:
+
+##### SkyPoint Dataflow:
+1. Created date in Dataflows has been fixed to reflect the created date time instead of showing current date time.
+
+##### SkyPoint Automate:
+1. Pipeline failures when running Scheduler has been fixed.
+2. Issue while disabling the scheduler has been fixed.
+
+##### SkyPoint Predict:
+1. "Preview" text has been removed from Prediction Models.
+
+##### Skypoint Activate:
+1. "Preview" text has been removed from Audience.
+
+#### Feature Updates
+
+## SkyPoint Automate:
+
+- **Scheduler Save and Edit Option** - Save is enabled when setting the scheduler for the first time. Once saved, the option to Edit is available.
+
+## SkyPoint Profile:
+
+- **UI changes for Relationships** - UI for Relationships has been modified using Fluent UI.
 
 # November 2021 Updates
 
@@ -14,18 +44,18 @@ The updates in November 2021 include new features and bug fixes.
 
 #### Resolved Issues:
 
-##### Skypoint Dataflow:
+##### SkyPoint Dataflow:
 1. UI issue for Tapin2 connector logo has been fixed.
 2. Salesforce Marketing Cloud: User can now download only the required activities. Previously, all activities in the list were downloaded irrespective of the selection.
 3. Floating header issue in entities has been fixed.
 
-##### Skypoint Empower:
+##### SkyPoint Empower:
 1. Data settings tab is now working fine under Privacy Center. The error "Something went wrong" has been fixed.
 
-##### Skypoint Activate:
+##### SkyPoint Activate:
 1. Decimal type attributes can now be added when creating business metrics.
 
-##### Skypoint Profile:
+##### SkyPoint Profile:
 1. Navigation issues while transitioning different states during configuring enrichments has been fixed.
 2. New Connection in Enrichment can now be saved. "Save" was shown disabled even after successful validation of the connection.
 3. Activity Stream in Dashboard now displays activies in reverse chronological order.
@@ -40,7 +70,7 @@ The updates in November 2021 include new features and bug fixes.
 
 #### Feature Updates
 
-## Skypoint Profile:
+## SkyPoint Profile:
 
 - **Big query enrichment possible with only key validation** - Big query enrichment connection can be verified using Key file, project id and email id. There is no requirement to add Json file for validation.
 
