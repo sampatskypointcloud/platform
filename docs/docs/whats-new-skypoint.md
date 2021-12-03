@@ -26,13 +26,13 @@ The updates in December 2021 include new features and bug fixes.
 ##### Skypoint Activate:
 1. "Preview" text has been removed from Audience.
 
-#### Feature Updates
+### Feature Updates
 
-## SkyPoint Automate:
+#### SkyPoint Automate:
 
 - **Scheduler Save and Edit Option** - Save is enabled when setting the scheduler for the first time. Once saved, the option to Edit is available.
 
-## SkyPoint Profile:
+#### SkyPoint Profile:
 
 - **UI changes for Relationships** - UI for Relationships has been modified using Fluent UI.
 
