@@ -16,25 +16,25 @@ The updates in December 2021 include new features and bug fixes.
 #### SkyPoint Dataflow:
 1. Created date in Dataflows has been fixed to reflect the created date time instead of showing current date time.
 
-#### Settings and Administration:
-1. Pipeline failures when running scheduler has been fixed.
-2. Issue while disabling the scheduler has been fixed.
-
 #### SkyPoint Predict:
 1. "Preview" text has been removed from Prediction Models.
 
 #### SkyPoint Activate:
 1. "Preview" text has been removed from Audience.
 
-### Feature Updates
-
 #### Settings and Administration:
+1. Pipeline failures when running scheduler has been fixed.
+2. Issue while disabling the scheduler has been fixed.
 
-- **Scheduler Save and Edit Option** - Save is enabled when setting the scheduler for the first time. Once saved, the option to Edit is available.
+### Feature Updates
 
 #### SkyPoint Profile:
 
 - **UI changes for Relationships** - UI for Relationships has been modified using Fluent UI.
+
+#### Settings and Administration:
+
+- **Scheduler Save and Edit Option** - Save is enabled when setting the scheduler for the first time. Once saved, the option to Edit is available.
 
 # November 2021 Updates
 
