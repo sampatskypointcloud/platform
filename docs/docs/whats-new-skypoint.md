@@ -16,19 +16,19 @@ The updates in December 2021 include new features and bug fixes.
 #### SkyPoint Dataflow:
 1. Created date in Dataflows has been fixed to reflect the created date time instead of showing current date time.
 
-#### SkyPoint Automate:
-1. Pipeline failures when running Scheduler has been fixed.
+#### Settings and Administration:
+1. Pipeline failures when running scheduler has been fixed.
 2. Issue while disabling the scheduler has been fixed.
 
 #### SkyPoint Predict:
 1. "Preview" text has been removed from Prediction Models.
 
-#### Skypoint Activate:
+#### SkyPoint Activate:
 1. "Preview" text has been removed from Audience.
 
 ### Feature Updates
 
-#### SkyPoint Automate:
+#### Settings and Administration:
 
 - **Scheduler Save and Edit Option** - Save is enabled when setting the scheduler for the first time. Once saved, the option to Edit is available.
 
@@ -78,19 +78,17 @@ The updates in November 2021 include new features and bug fixes.
 
 - **UI changes for entities** - UI for entities, attribute and data has been modified using Fluent UI.
 
-#### Skypoint Data Mesh:
+#### SkyPoint Dataflow:
 
 - **Tapin2 connector** - Tapin2 connector support has been added in Dataflow section.
 
 - **Label inactive integrations** - Any datasource integrations which are not yet enabled show "Coming Soon" on hover.
 
-
-#### Skypoint Predict:
+#### SkyPoint Predict:
 
 - **SkyPoint Predict**: UI for Prediction has been modified using Fluent UI.
 
 - **UI changes for Custom Models** - UI for custom models has been modified using Fluent UI.
-
 
 ## Sprint 210 Release
 
@@ -103,7 +101,6 @@ The updates in November 2021 include new features and bug fixes.
 - **Backup functionality for Instances** - Create and Restore Backup feature has been added for Instances. 
 
 - **Associations renamed to Relationships**- UI change for renaming associations to Relationships has been implemented.
-
 
 # October 2021 Updates 
 
