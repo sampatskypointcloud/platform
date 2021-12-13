@@ -120,9 +120,9 @@
           items:
             - name: Overview
               href: subscriptionchurnmodel.md
-            - name: Sample Guide For Transactional Churn Prediction(Using Rule Match)
+            - name: Sample Guide For Subscription Churn Prediction(Using Rule Match)
               href: sampleguideforsubscriptionchurnrulemethod.md
-            - name: Sample Guide For Transactional Churn Prediction(Using ML Match)
+            - name: Sample Guide For Subscription Churn Prediction(Using ML Match)
               href: sampleguideforsubscriptionchurn.md
         - name: Customer Lifetime Value Model
           items:
