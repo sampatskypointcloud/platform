@@ -173,7 +173,7 @@
         - name: Salesforce Marketing Cloud
           href: sfmcexport.md
         - name: SkyPoint Cloud Bot
-          href: skypointbot.md
+          href: skypointteamsbot.md
 - name: Settings
   items:
     - name: Platform
