@@ -9,6 +9,29 @@ We're excited to announce our newest updates and releases! This article summariz
 
 The updates in December 2021 include new features and bug fixes.
 
+## Sprint 213 Release
+
+### Resolved Issues:
+
+#### SkyPoint Predict:
+1. Save Option added to Prediction Model configuration. Earlier user could only select "Save and Run".
+
+#### SkyPoint Profile:
+1. "Group by" filter has been fixed for entities.
+
+#### SkyPoint Activate:
+1. List of exports are now shown in reverse chronological order.
+
+### Feature Updates:
+
+#### SkyPoint Activate:
+
+- **"Select from existing" option in export for File based connectors**-  The Option "Select from existing" in case of exporting File system based connectors has been added. It allows to use the exsiting credentials from dataflow connectors.
+
+#### SkyPoint Resolve:
+
+- **UI changes for Stitch Process** - UI for Stitch involving Map, Rule match, ML match and Merge has been modified using Fluent UI.
+
 ## Sprint 212 Release
 
 ### Resolved Issues:
