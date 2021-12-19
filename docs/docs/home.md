@@ -1,5 +1,7 @@
 # Home
 
+SkyPoint Studio home page is a dashboard that showcases widgets from all products of the platform including Dataflow, Vault, Resolve, Profile, Predict, Activate, Empower, Automate and Settings & Administration.  
+
 ###  Total Profiles
    - Displays the total number of profiles you have in your instance (Instance is a subsidiary of the client).
 ###  Total Audience
