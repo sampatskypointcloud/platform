@@ -2,7 +2,17 @@
 
 ## Relationships
 
-This section of the platform lets you create 4 differnt types of relationships between chosen entities.
+In Common Data Model (CDM) similar to relational database designs, relationships connect entities and define a graph of your data when entities share a common identifier, a foreign key. This foreign key can be referenced from one entity to another. 
+
+Connected entities enable the definition of audiences and metrics based on multiple data sources.
+
+There are three types of relationships:
+
+1. Non-editable system relationships, created by the system as part of the data unification process such as Stitch
+2. Non-editable inherited relationships, which are created automatically from importing data from data sources in Dataflow 
+3. Editable custom relationships, created and configured by SkyPoint users (API & Studio) 
+
+This section of the platform lets you create 4 different types of relationships between chosen entities.
 
 Default view of the page will show you all the relationships that you have already built
 
