@@ -12,7 +12,7 @@ There are three types of relationships:
 2. Non-editable inherited relationships, which are created automatically from importing data from data sources in Dataflow 
 3. Editable custom relationships, created and configured by SkyPoint users (API & Studio) 
 
-This section of the platform lets you create 4 different types of relationships between chosen entities.
+This section of the platform lets you create four different types of relations (refer to relational database designs, such as ER model) in relationships between chosen entities.
 
 Default view of the page will show you all the relationships that you have already built
 
