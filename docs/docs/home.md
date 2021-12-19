@@ -20,4 +20,4 @@
 ###  Audiences
    - Audiences shows the group of members/profiles and how many audience are created.
 ###  Activity Stream
-   - Activity stream shows the events that happened in your instances. Every activity is being monitored and that gives a proper understanidng about the procedures followed and changed happened in the account.
+   - Every activity is being tracked and monitored. Activity stream shows a trail of activities performed in the instance
