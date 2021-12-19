@@ -12,9 +12,9 @@ Click on the +New Relationhip button at the top of the page to build a new relat
 
 ![image](https://user-images.githubusercontent.com/93347291/146685812-5f7de1c2-27c8-49e6-a325-60319a4d13b9.png)
 
-Give a name and Description to the relationship in the respetive feilds
-Chose the sources entity and Target entity to set the relationship
-Chose the cardinality from the drop down
+1. Give a name and Description to the relationship in the respetive feilds
+2. Chose the sources entity and Target entity to set the relationship
+3. Chose the cardinality from the drop down
 ## Cardinality
 The cardinality of a join between two tables is the numerical relationship between rows of one table and rows in the other. It is very useful for query optimization. They are of four types:
 1. One to One – A single row of first entity associates with single row of second entity.
