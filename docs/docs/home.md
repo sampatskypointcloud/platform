@@ -18,6 +18,6 @@
 ###  Insights and Metrics
    - Preview of the actions carried in the process and it's results are shown in the Insights. Mectrics are the combination of insights to make sure that you are on the right track.
 ###  Audiences
-   - Audiences shows the group of members/profiles and how many audience is there.
+   - Audiences shows the group of members/profiles and how many audience are created.
 ###  Activity Stream
    - Activity stream shows the events that happened in your instances. Every activity is being monitored and that gives a proper understanidng about the procedures followed and changed happened in the account.
