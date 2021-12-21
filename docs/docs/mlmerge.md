@@ -5,4 +5,4 @@
 3. Once ML Merge is done, go to the home page and look at the dashboard. You will be able to see the profile count.
 4. To check the profiles, navigate to **Insights** > **Profiles**.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/sampleguideprofiles.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/93347291/146898179-bede4b5a-5f96-4bfc-af6c-7de0a8be0ef5.png)
