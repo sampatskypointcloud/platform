@@ -6,4 +6,4 @@
 4. Then click on Save and after the UI shows **Saved successfully**, click on Run to start the ML Match process.
 5. Once the ML Match is done, you will be able to see the number of unique records and many other numerical representations of the output of the ML match.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/sampleguidemlmatch.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/93347291/146888780-8d77963c-e54c-41ad-ac89-d987198aa74e.png)
