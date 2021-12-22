@@ -14,7 +14,7 @@ Enrichment supplements your customer data with data from external sources includ
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Enrichment.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Enrichment.png?raw=true)
 
 
 
@@ -25,7 +25,7 @@ Enrichment supplements your customer data with data from external sources includ
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step1-%20Overview.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step1-%20Overview.png?raw=true)
 
 
 
@@ -36,7 +36,7 @@ Select the connection you would like to use for enrichment.
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%202-%20Connect.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%202-%20Connect.png?raw=true)
 
 
 
@@ -47,7 +47,7 @@ Select the connection you would like to use for enrichment.
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Create%20connection.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Create%20connection.png?raw=true)
 
 
 
@@ -59,7 +59,7 @@ Select the connection you would like to use for enrichment.
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Service%20Account.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Service%20Account.png?raw=true)
 
 
 
@@ -70,7 +70,7 @@ Login to BigQuery using the service account details.
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Key%20Creation.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Key%20Creation.png?raw=true)
 
 
 
@@ -80,7 +80,7 @@ Login to BigQuery using the service account details.
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Select_key_format.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Select_key_format.png?raw=true)
 
 
 
@@ -101,7 +101,7 @@ Eg: Select the Customer data set and choose the entity containing the addresses 
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%203-%20Required%20Data.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%203-%20Required%20Data.png?raw=true)
 
 
 
@@ -112,7 +112,7 @@ Eg: Select the Customer data set and choose the entity containing the addresses 
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%204-%20Attribute%20Mapping.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%204-%20Attribute%20Mapping.png?raw=true)
 
 
 
@@ -123,7 +123,7 @@ Eg: Select the Customer data set and choose the entity containing the addresses 
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%205-%20Review.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Step%205-%20Review.png?raw=true)
 
 
 
@@ -134,7 +134,7 @@ The below details are displayed in Entity.
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Entity_BigQuery.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Entity_BigQuery.png?raw=true)
 
 
 
@@ -142,5 +142,5 @@ Below is the attribute for Sandbox2345 instance. Attributes and Data can be view
 
 
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Entity_download.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Entity_download.png?raw=true)
 
