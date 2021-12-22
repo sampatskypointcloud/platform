@@ -56,6 +56,10 @@
       href: channels.md
     - name: Entities
       href: entities.md
+    - name: Enrichments
+      items:
+        - name: Google Big Query Enrichment
+          href: bigQuery_enrichment.md
     - name: Stitch
       items:
         - name: Overview
