@@ -16,7 +16,7 @@ SkyPoint is an industry leading customer data platform (CDP), zero trust data pr
 
 SkyPoint platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances.
  
- ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Multitenant.png)
+ ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Multitenant.png?raw=true)
  
 SkyPoint Studio's left navigation bar gives access to some of the key features such as:
 
@@ -30,19 +30,19 @@ SkyPoint Studio's left navigation bar gives access to some of the key features s
 ## **SkyPoint platform glossary**
 
 - **Tenants** : Each customer is called a Tenant.
-- **Instances** : You can consider them as subsidiaries of a single client. As soon as you create an account on our platform, a default instance is created for you namely Sandbox.
+- **Instances** : You can consider them as subsidiaries of a single client. As soon as you create an account on the platform, a default instance is created for you namely Sandbox.
 - **Dataflows (Integrations - Import)** : It allows you to ingest data from all your sources, transform and load into the data lake complying with the Common Data Model (CDM).
 - **Datavaults** : Zero trust data privacy vault with compliance to Common Data Model (CDM).
 - **Channels** : They are the visitor touchpoints that you want to monitor with SkyPointCloud.
-- **Entities** : Individual data sources that are present in the dataflows.
+- **Entities** : Each data source ingested from the dataflows is added as an entity in the entity section. Entities are further added from Stitch Process which is the Profile entity, from Audiences , from Enrichment and from Metrics.
 - **Stitch** : Data Processing is performed in this section. It consists of 3 sub-sections: Map, Match & Merge.
   - *Map* : It defines the profile data in your entities by choosing the profile attributes, primary key, and types (datatypes defined by SkyPoint Cloud).
   - *Match* : It identifies the unique profiles in your entities by matching records based on certain rules.
   - *Merge* : It creates an entity of profile records by combining duplicate attributes and removing attributes you don’t need.
 - **Timelines** : It depicts the entire customer's journey consisting timeline details of  specific entities and attributes in the customer profiles 
-- **Associations** : used to create associations/relationships among  entities.
-- **Custom Models** : Helps in Integrating artificial intelligence and machine learning models by deploying them as web service endpoints to utilize unified entities (e.g. predictions on unified customer profile and activities).
-- **Profiles** : They are  generated after the entire stitch process is complete. It contains unified unique records.
+- **Relationships** : It is used to create associations/relationships between entities which can be further used when creating Audiences and Metrics.
+- **Custom Models** : The feature allows the user to bring their own machine learning model and utilize the data from SkyPoint Studio to get the quality score.
+- **Profiles** : Profiles depict unified customers. Multilple entities ingested are stitched together with Identity resolution and ML model to generate a 360 view of unique customers. 
 - **Audiences** : It is a group of profiles characterized by a defined set of attributes based filters. You can schedule audiences to be auto-updated every day or update them manually for onetime use.
 - **Metrics** : Helps in tracking the performance of an organizations by providing insights such as business metrices, profile metrices and profile attribute. 
 - **Data Maps** : Mapping different entities in a meaningful manner to formulate better insights with the data.  It also provides an easier and powerful way to process, manage and secure the data with minimal complexity.
