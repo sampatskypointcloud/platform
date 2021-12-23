@@ -3,6 +3,8 @@ SkyPoint is an industry leading customer data platform (CDP), zero trust data pr
 
 ## SkyPoint platform has the following products:
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Products.png?raw=true)
+
 1.	**SkyPoint Dataflow** : Data import via integrations, data quality, data transformations to Common Data Model (CDM) entities and semantic data labeling. 
 2. **SkyPoint Resolve** : Machine learning and rule based customer identity resolution & management.
 3. **SkyPoint Profile** : 360-degree view of the customer including profile, timelines and enrichment capabalities. 
