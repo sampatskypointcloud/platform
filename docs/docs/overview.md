@@ -3,29 +3,20 @@ SkyPoint is an industry leading customer data platform (CDP), zero trust data pr
 
 ## SkyPoint platform has the following products:
 
-1.	SkyPoint Dataflow: Data import via integrations, data quality, data transformations to Common Data Model (CDM) entities and semantic data labeling. 
-2. SkyPoint Resolve: Machine learning and rule based customer identity resolution & management.
-3. SkyPoint Profile: 360-degree view of the customer including profile, timelines and enrichment capabalities. 
-4. SkyPoint Predict: Predict customer needs from unified data, ML models built in and ability to integrate custom models.
-5. SkyPoint Vault:  Zero trust data privacy vaults deliver security, compliance and governance via a simple API. 
-6. SkyPoint Empower: Customer consent management and effortless compliance with global privacy laws (CCPA, GDPR).
-7. SkyPoint Activate: Capabilities including audiences, metrics, export and API developer portal. 
-8. SkyPoint Automate: Automate workflows, build power apps, build dashboards using SkyPoint Power BI, Power App, Power Automate and Teams connectors.
+1.	**SkyPoint Dataflow** : Data import via integrations, data quality, data transformations to Common Data Model (CDM) entities and semantic data labeling. 
+2. **SkyPoint Resolve** : Machine learning and rule based customer identity resolution & management.
+3. **SkyPoint Profile** : 360-degree view of the customer including profile, timelines and enrichment capabalities. 
+4. **SkyPoint Predict** : Predict customer needs from unified data, ML models built in and ability to integrate custom models.
+5. **SkyPoint Vault** :  Zero trust data privacy vaults deliver security, compliance and governance via a simple API. 
+6. **SkyPoint Empower** : Customer consent management and effortless compliance with global privacy laws (CCPA, GDPR).
+7. **SkyPoint Activate** : Capabilities including audiences, metrics, export and API developer portal. 
+8. **SkyPoint Automate** : Automate workflows, build power apps, build dashboards using SkyPoint Power BI, Power App, Power Automate and Teams connectors.
 
 ## SkyPoint platform architecture:
 
 SkyPoint platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances.
  
  ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Multitenant.png?raw=true)
- 
-SkyPoint Studio's left navigation bar gives access to some of the key features such as:
-
-  1. Home
-  2. Data
-  3. Privacy
-  4. Insights
-  5. Action
-  6. Settings
 
 ## **SkyPoint platform glossary**
 
