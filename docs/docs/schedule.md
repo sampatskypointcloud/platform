@@ -12,4 +12,4 @@ The **Schedule** is used for the automatic refreshes of all the data imports don
 1. Next, we select the type of Stitch flow based on user's requirements. Select any of the flow **(Rule Flow or ML Flow)** that the user wants to gets processed in this schedule.
 1. **Click** on **Save** to apply the changes.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Schedule.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Scheduler.PNG?raw=true)
