@@ -12,7 +12,7 @@ A tabular representation of the actions taken by any user on this platform  with
 4. Description: This is a text of the format <user> run <action> describing the user mapping with the action he/she has performed.
 5. Data: There is a button alloted to every row of action which on clicking gives a json data describing the category in which the action is performed.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ActivitySream.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ActivityStream.PNG?raw=true)
 
 ## Tenant Activity Stream
 
