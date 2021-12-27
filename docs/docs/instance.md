@@ -7,7 +7,7 @@ There are two options available when creating or editing an Instance.
 1. **Copy from existing:**  In case of already created Instances, user has the option to select the settings from the available Instance so that user effort for reseting a new Instance are saved.
 2. **Create Instance:** User always has the option to add a new Instance. User needs to select Instance properties when adding a new Instance.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/CreateInstance.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/CreateInstance.PNG?raw=true)
 
 
 ## Instance Properties
@@ -19,21 +19,24 @@ There are two options available when creating or editing an Instance.
 
 Click on **Save** button.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Instances.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Instances.PNG?raw=true)
 
 ## Operations Available for an Instance:
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/InstanceOptions.PNG?raw=true)
+
 1. **Edit:** USer can edit the properties of already created instance and also can select the option to copy from existing instance.
 2. **Remove:** User can delete the existing instance. This option will delete entire data set available for the instance. Any settings related to CDP , Privacy or data vault                  will be deleted.
 3. **Reset CDP data:** User can delete CDP data from the Instance which will delete the entities related to Profile. User has following options:              
                      a. **Reset everything:** Reset Ingested data from dataflows, Profile settings, Stitch related entities , Audiences, Relationships, Metrics,                                                             Prediction Models, Enrichment, Export settings and scheduler settings.\
                      b. **Keep all dataflow:** Reset everything except the ingested data and related entities.\
                      c. **Keep all dataflow, settings for stitch and profile entity:** Reset everything except ingested data in dataflow, stitch settings and profile entity.                                               
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ResetCDP.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ResetCDP.PNG?raw=true)
                      
 4. **Reset Privacy data:** User can delete privacy data.
 5. **Reset datavault data:** User can delete datavault data.
 6. **History:** User can view the history for the Instance.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/InstanceHistory.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/InstanceHistory.PNG?raw=true)
 
 7. **Backups:** User can create backup or restore from the saved backup.
