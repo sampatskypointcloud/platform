@@ -15,7 +15,7 @@
  
 2. Under Select **Dataflow name**, mention the connector name.
 
-. image2
+<img width="933" alt="3" src="https://user-images.githubusercontent.com/96232751/147766810-c208e5b9-865a-4910-8ec0-f900b8f46b20.PNG">
 
 3. From **Choose Connector**, click the connector name **Salesforce**. 
 
