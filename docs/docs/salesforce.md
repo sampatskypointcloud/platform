@@ -10,15 +10,30 @@
 ## Steps to Configuration
 
 1. Navigate to **Data** > **Dataflows** and click on *+ Add Dataflow*
-2. 
-3. Fill in the name of the connector and click on **Next**.
-4. You will see all the different types of connectors present infront of you. In the search bar present on top right, type Salesforce and select the Salesforce connector.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/salesforceconnect.PNG?raw=true)
+ <img width="940" alt="Image 1" src="https://user-images.githubusercontent.com/96232751/147765840-279c1a5b-ff68-499a-93f8-62da56671af0.PNG">
+ 
+2. Under Select **Dataflow name**, mention the connector name.
 
-4. Next, fill in the display name and type in a breif description about the connector in the ***general section*** and then go to ***Connector Section*** to configure the connector with our platform.
-5. Enter all the required details and click on **Connect**. It might take some time to finish up, depending upon the data size.
-6. Once its completed, you will be able to see the imported entities below the Connect button.
+. image2
+
+3. From **Choose Connector**, click the connector name **Salesforce**. 
+
+image3
+
+3.	You will be directed to configuration set up a below.
+4.	Under **General**, below the Dataflow Name*, enter the name of the connector and mention the description about the connector (optional) and click on Save.
+Imagge 4
+
+5.	Click on Connector, which is right next to General. Under Configuration, mention the details as required.
+6.	User Name
+7.	Security Token
+8.	Password
+9.	Environment URL
+And click on connect.
+Image 5
+4.	Once its completed, you will be able to see the imported entities from the Salesforce connector.
+
 
 ## The following properties are supported for the Salesforce connector service
 
