@@ -1,4 +1,4 @@
-# SalesForce
+# Salesforce
 
 **To integrate Salesforce CRM Connector, below details are to be configured**:
 
