@@ -1,17 +1,18 @@
 # SalesForce
 
-In order to allow **SkyPoint** access to your **Salesforce account**, you need to provide the following details:
+**To integrate Salesforce CRM Connector, below details are to be configured**:
 
-1. Username
+1. User Name
 2. Password
 3. Security Token
 4. Environment URL
 
-## Steps to follow
+## Steps to Configuration
 
-1. Navigate to **Data** > **Dataflows** and click on *Add Dataflow* button present on top right side of the platform.
-2. Fill in the name of the connector and click on **Next**.
-3. You will see all the different types of connectors present infront of you. In the search bar present on top right, type Salesforce and select the Salesforce connector.
+1. Navigate to **Data** > **Dataflows** and click on *+ Add Dataflow*
+2. 
+3. Fill in the name of the connector and click on **Next**.
+4. You will see all the different types of connectors present infront of you. In the search bar present on top right, type Salesforce and select the Salesforce connector.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/salesforceconnect.PNG?raw=true)
 
