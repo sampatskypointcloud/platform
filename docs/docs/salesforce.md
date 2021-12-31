@@ -21,9 +21,9 @@
 
 <img width="933" alt="3" src="https://user-images.githubusercontent.com/96232751/147812334-a0305132-a8fb-4a76-8d3f-95680d481cb8.PNG">
 
-	You will be directed to configuration set up a below.
+You will be directed to configuration set up as below.
  
-4.	Under **General**, below the **Dataflow Name**, enter the name of the connector and mention the description about the connector (optional) and click on Save.
+4. Under **General**, below the **Dataflow Name**, enter the name of the connector and mention the description about the connector (optional) and click on Save.
 
 <img width="638" alt="4" src="https://user-images.githubusercontent.com/96232751/147812354-f333b60a-1d7a-47bd-bb1a-326050adf9de.PNG">
 
