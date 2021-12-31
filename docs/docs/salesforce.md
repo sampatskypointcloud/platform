@@ -15,23 +15,27 @@
  
 2. Under Select **Dataflow name**, mention the connector name.
 
-<img width="933" alt="3" src="https://user-images.githubusercontent.com/96232751/147766810-c208e5b9-865a-4910-8ec0-f900b8f46b20.PNG">
+<img width="671" alt="2" src="https://user-images.githubusercontent.com/96232751/147812319-6156c170-614f-4b01-95a3-2089b784743c.PNG">
 
 3. From **Choose Connector**, click the connector name **Salesforce**. 
 
-image3
+<img width="933" alt="3" src="https://user-images.githubusercontent.com/96232751/147812334-a0305132-a8fb-4a76-8d3f-95680d481cb8.PNG">
 
-3.	You will be directed to configuration set up a below.
-4.	Under **General**, below the Dataflow Name*, enter the name of the connector and mention the description about the connector (optional) and click on Save.
-Imagge 4
+	You will be directed to configuration set up a below.
+ 
+4.	Under **General**, below the **Dataflow Name**, enter the name of the connector and mention the description about the connector (optional) and click on Save.
 
-5.	Click on Connector, which is right next to General. Under Configuration, mention the details as required.
-6.	User Name
-7.	Security Token
-8.	Password
-9.	Environment URL
-And click on connect.
-Image 5
+<img width="638" alt="4" src="https://user-images.githubusercontent.com/96232751/147812354-f333b60a-1d7a-47bd-bb1a-326050adf9de.PNG">
+
+5.	Click on **Connector**, which is right next to **General**. Under **Configuration**, mention the details as required.
+	User Name
+	Security Token
+	Password
+	Environment URL
+ Click on connect.
+
+<img width="720" alt="5" src="https://user-images.githubusercontent.com/96232751/147812380-fdf01f58-7d2c-4bfe-a6fe-287885daaeab.PNG">
+
 4.	Once its completed, you will be able to see the imported entities from the Salesforce connector.
 
 
