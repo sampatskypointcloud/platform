@@ -1,35 +1,54 @@
 
 # Salesforce Marketing Cloud Setup Guide
 
-Follow our setup guide to connect **Salesforce Marketing Cloud**  to **SkyPoint**.
-
-You need to provide the following details:
+Below are needed to configure Salesforce Marketing Cloud Connector in SkyPoint Cloud platform.
 
   1. **Client Id**
   1. **Client Secret**
   1. **Authentication URL**
-  
+
+###### Steps to configuration.
+
+1.	Navigate to **Data** > **Dataflows** click on *+ Add Dataflows*
+
+<img width="940" alt="Image 1" src="https://user-images.githubusercontent.com/96232751/147830670-9de2e430-c748-4754-8eeb-3041fa4b3930.PNG">
+
+2. Under *Select Dataflow name*, mention the connector name.
+
+ ![image](https://user-images.githubusercontent.com/96232751/147830805-2fa670ef-ef02-470d-b1e8-b5982b1654cd.png)
+
+3.	From *Choose Connector*, click the connector name **Salesforce Marketing Cloud**. 
+
+![image](https://user-images.githubusercontent.com/96232751/147830749-296af44e-84c3-4785-9dd6-fabf40f816d5.png)
+
+4.	you will be directed to configuration set up a below.
+5.	Under **General**, below the *Dataflow Name*, enter the name of the connector and mention the description about the connector (optional) and click on Save.
+![image](https://user-images.githubusercontent.com/96232751/147830932-0d48a732-0dc6-4e4c-928b-75b917ae6146.png)
+
+6.	Click on Connector, which is right next to General. Under Configuration, mention the details as required.
+![image](https://user-images.githubusercontent.com/96232751/147831049-9216f113-67cd-48bd-b5f4-31c032683d65.png)
+
   Once you enter all the required details, **Click Connect**: 
    
    * This will fetch all **Subscriber Lists, Campaigns and Data Extensions**.
      
-   * Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error that login has failed.
+   * Upon clicking the Connect button, it will validate your credentials, if it is successful you will see a notification **Data loaded successfully** else it will show the error message that login has failed.
 
-   * Upon successful connection, it will show the names of all **Subscriber Lists**, **Campaigns** and **Data Extensions** imported from the source with headers like Name, Type, Entity Name etc.
+   * Upon successful connection, you will see the names of all **Subscriber Lists**, **Campaigns** and **Data Extensions** imported from the source with headers like Name, Type, Entity Name etc.
 
    * Select the required enities and save the data flow.
 
    * You can **Run** the data flow as and when required by choosing the **Run action** from dataflow screen.
    
-   * Upon successful run two entities will be created named **sfmc_events** from all event activities and **sfmc_subscribers** from all subscribers from Lists, Campaigns and Data Extensions. 
+   * Upon successful run, two entities will be created named **sfmc_events** from all event activities and **sfmc_subscribers** from all subscribers from Lists, Campaigns and Data Extensions. 
   
 
 ### Configuring Activities Import
 
-You need to make seletion from below options:
+You need to make selection from below options:
 
-  1. **Activity Start Date** : Set start date for range. Leave as dd-mm-yyyy to import activities since beginning. Select entered date and press delete to clear.
-  1. **Activity End Date** : Set end date for range. Leave as dd-mm-yyyy to import activities till today. Select entered date and press delete to clear.
+  1. **Activity Start Date** : Set start date for range. Leave as dd-mm-yyyy to import activities since beginning. Select entered date and press *delete* to clear.
+  1. **Activity End Date** : Set end date for range. Leave as dd-mm-yyyy to import activities till today. Select entered date and press *delete* to clear.
   1. **Activities** : Select subset of activities to import. By default all activities are selected.
  
  * The **Date Range** is optional. If it's selected it will fetch all activities since beginning till today.
