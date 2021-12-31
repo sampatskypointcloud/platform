@@ -28,11 +28,11 @@
 <img width="638" alt="4" src="https://user-images.githubusercontent.com/96232751/147812354-f333b60a-1d7a-47bd-bb1a-326050adf9de.PNG">
 
 5.	Click on **Connector**, which is right next to **General**. Under **Configuration**, mention the details as required.
-	User Name
-	Security Token
-	Password
-	Environment URL
- Click on connect.
+	- User Name
+	- Security Token
+	- Password
+	- Environment URL
+        - Click on connect
 
 <img width="720" alt="5" src="https://user-images.githubusercontent.com/96232751/147812380-fdf01f58-7d2c-4bfe-a6fe-287885daaeab.PNG">
 
