@@ -31,8 +31,7 @@ You will be directed to configuration set up as below.
 	- User Name
 	- Security Token
 	- Password
-	- Environment URL
-        - Click on connect
+	- Environment URL and Click on connect
 
 <img width="720" alt="5" src="https://user-images.githubusercontent.com/96232751/147812380-fdf01f58-7d2c-4bfe-a6fe-287885daaeab.PNG">
 
