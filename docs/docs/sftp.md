@@ -1,4 +1,4 @@
-# SFTP(Simple File Transfer Protocol)
+# SFTP (Simple File Transfer Protocol)
 
 SFTP Dataflow enables to integrate data from different sources.
 To integrate SFTP Connector, below details are to be configured:
