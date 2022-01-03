@@ -7,18 +7,21 @@ The platform offers multiple ways to sign-up to make it easier for the user to s
 
 1. Go to the [Signup](https://app.skypointcloud.com/signup) page.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/signupwithdetails.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/d268463b3c49b7dae79a8b54fa9420f182dff776/docs/doc_snippets/Signup_Landing.PNG)
 
 2. Enter **Email ID** [Mandatory]
 3. Click on continue.
 4. The user will be re-directed to new page to fill details.
-5. Enter **First Name** [Mandatory]
-6. Enter **Last Name** [Mandatory]
-7. Enter **Company Name** [Mandatory]
-8. Enter your **Job Title** [Mandatory]
-9. Enter a strong **Password** [Mandatory]
-10. Click on the **Sign Up** button.
-11. You will be get a verification mail with a hyperlink which on clicking will get you verified and you can then go to Sign-In page to access the platform.
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Signup_details.PNG)
+
+6. Enter **First Name** [Mandatory]
+7. Enter **Last Name** [Mandatory]
+8. Enter **Company Name** [Mandatory]
+9. Enter your **Job Title** [Mandatory]
+10. Enter a strong **Password** [Mandatory]
+11. Click on the **Sign Up** button.
+12. You will be get a verification mail with a hyperlink which on clicking will get you verified and you can then go to Sign-In page to access the platform.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/getstarted.PNG?raw=true)
 
