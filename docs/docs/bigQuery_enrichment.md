@@ -2,7 +2,7 @@
 
 BigQuery is a data warehousing solution provided by Google Cloud.
 
-**Data**   **enrichment**  is the process of combining first party data from internal sources with disparate data from other internal systems or third-party data from external sources.
+**Data enrichment**  is the process of combining first party data from internal sources with disparate data from other internal systems or third-party data from external sources.
 
 **Enriched**  data is an asset for any organization because it becomes more useful and insightful.
 
