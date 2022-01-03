@@ -8,13 +8,14 @@ Dataflow let you integrate your data from different sources.
     - Enter a Name. (Name starts with a letter and only **Letters** and **Numbers** are allowed. No Spcaes)
     - Click **Next**.
     - You will be directed to choose a **Connector**.
+    - Search **Amazon S3** and click on it.
 
 ## Step 02 - Access Source Data
 **In order to allow SkyPoint access to your _Amazon S3_ account, you'll need the following details:**
 - **Access key ID** (Check with Amazon S3 source credentials.)
 - **Secret Access Key**
 - **S3 Bucket**
-    - Select the folder you want download the data from the source.
+    - Navigate to the folder you want download the data from.
     - Click **Save**.
     - Once you select the **S3 Bucket** you will see a notification *Data loaded successfuly*.
     - Data from the source will be loaded to the table with headers **File Name**, **Entity Name**, **Datetime Format**, **Delimiter**, 
