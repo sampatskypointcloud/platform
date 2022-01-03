@@ -1,6 +1,6 @@
 # Amazon S3
 
-Dataflow let you integrate your data from different sources.
+Dataflow lets you integrate your data from different sources.
 
 ## Step 01 - Add Dataflow
 
