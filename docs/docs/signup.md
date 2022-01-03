@@ -33,10 +33,10 @@ The platform offers multiple ways to sign-up to make it easier for the user to s
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/signedup.jpg?raw=true)
 
 
-### Sign-Up Using Azure Account
+### Sign-Up With Microsoft
 
 1. Go to the [Signup](https://app.skypointcloud.com/signup) page.
-2. Click on Microsoft button on the right side of the page.
+2. Click on "Sign up with Microsoft " button 
 3. You will be redirected to the Azure Portal to Sign-In.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/signupwithazure.PNG?raw=true)
@@ -46,7 +46,7 @@ The platform offers multiple ways to sign-up to make it easier for the user to s
 ### Sign-Up Using Google Account
 
 1. Go to the [Signup](https://app.skypointcloud.com/signup) page.
-2. Click on Google Sign-In button on the right side of the page.
+2. Click on "Sign up with Google".
 3. You will be redirected to the Google website to Sign-In.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/signupwithgoogle.PNG?raw=true)
@@ -56,7 +56,7 @@ The platform offers multiple ways to sign-up to make it easier for the user to s
 ### Sign-Up Using SkyPoint Account
 
 1. Go to the [Signup](https://app.skypointcloud.com/signup) page.
-2. Click on Skypoint login button on the right side of the page.
+2. Click on "SignUp With SkyPoint" button
 3. You will be redirected to the Skypoint Portal to Sign-In.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/signupwithskypoint.PNG?raw=true)
