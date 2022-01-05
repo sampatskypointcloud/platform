@@ -5,6 +5,41 @@ We're excited to announce our newest updates and releases! This article summariz
 > [!TIP]
 > To submit feature requests and product suggestions, email us at support@skypointcloud.com or use Github issues.
 
+# January 2022 updates
+
+The updates in January 2021 include new features.
+
+## Sprint 214 Release
+
+
+### Feature Updates
+
+#### SkyPoint Dataflow:
+
+- **New connector support for Data Relay** - Data Relay connector has been added to Dataflow > Integrations. The connector takes SFTP and SQL server credentials to connect to the Data Relay. Currently only one time load is supported. Incremental load is not yet supported.
+- **Feature to add same Datetime format for all entities** - User can now select the option to add same Datetime format for all the entities required for integration when adding Connector details.
+
+#### SkyPoint Profile:
+
+- **UI changes for Profile card** - UI for Profile card has been modified using Fluent UI.
+- **Sorting in Profile card view** - Sorting is now supported in profile card view. All the attributes added in the profile card are available for sorting.
+
+#### SkyPoint Activate:
+
+- **SFTP export destination added** - Export to SFTP location is now supported in SkyPoint Studio.
+- **Fluent UI changes for Export** - UI for export has been modified using fluent UI.
+- **Fluent UI changes for Audience** - UI for audience has been modified using fluent UI.
+
+#### SkyPoint Predict:
+
+- **Product name to be shown in Production recommendation Model output** - Product Recommendation output now shows product names which previously showed Product Id's.
+
+#### Settings and Administration:
+
+- **Contextual Documentation from SkyPoint Studio** - User is now directed to contextual documentation link based on the current section.
+- **Left navigation panel to be in sync in SkyPoint product lines** - Left navigation panel has been modified to reflect the features alignment based on SkyPoint product lines.
+
+
 # December 2021 Updates
 
 The updates in December 2021 include new features and bug fixes.
