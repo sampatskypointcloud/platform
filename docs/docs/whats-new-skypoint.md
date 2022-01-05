@@ -37,7 +37,7 @@ The updates in January 2021 include new features.
 #### Settings and Administration:
 
 - **Contextual Documentation from SkyPoint Studio** - User is now directed to contextual documentation link based on the current section.
-- **Left navigation panel to be in sync in SkyPoint product lines** - Left navigation panel has been modified to reflect the features alignment based on SkyPoint product lines.
+- **Left navigation panel to be in sync with SkyPoint product lines** - Left navigation panel has been modified to reflect the features alignment based on SkyPoint product lines.
 
 
 # December 2021 Updates
