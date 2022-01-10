@@ -55,7 +55,7 @@ Select the connection you would like to use for enrichment.
 - **Email** – (obtained from Google console. Available at **IAM-Service Accounts** )
 - **Project ID** – (obtained from Google console)
 - **Key File (JSON) –** (downloaded from BigQuery service account)
-- **Password** – (Service account password)
+- **Password** – (Password that gets generated while generating P12 Key File)
 
 
 
