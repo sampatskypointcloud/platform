@@ -16,10 +16,12 @@ To know about Zenoti and ways to interact with the API, click [here](https://doc
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/zenoti_connector.PNG?raw=true)
 
 4. Next, fill in the display name and type in a breif description about the connector in the ***general section*** and then go to ***Connector Section*** to configure the connector with our platform.
-5. Enter the API key and the URL and click on **Connect**. It might take some time to finish up, depending upon the data size.
-6. Once its completed, you will be able to see the imported entities below the Connect button.
-7. Follow [this](https://skypointcdpdocs.z22.web.core.windows.net/docs/dataflows.html) to get a better understanding of how to input data. This will be beneficial for data processsing as the data will be stored in a convenient manner. 
-8. As the data gets integrated, we will be able to see the number of entities present in that dataflow. On successful completion of the process, the status of the dataflow will be a green check denoting that the data has been integrated and can now be taken into further usages.
+5. Enter the API key and the URL and click on **Connect**. 
+![image](https://user-images.githubusercontent.com/93347291/148924384-943523d4-f768-4f0f-a145-a58a80349632.png)
+7. It might take some time to finish up, depending upon the data size.
+8. Once its completed, you will be able to see the imported entities below the Connect button.
+9. Follow [this](https://skypointcdpdocs.z22.web.core.windows.net/docs/dataflows.html) to get a better understanding of how to input data. This will be beneficial for data processsing as the data will be stored in a convenient manner. 
+10. As the data gets integrated, we will be able to see the number of entities present in that dataflow. On successful completion of the process, the status of the dataflow will be a green check denoting that the data has been integrated and can now be taken into further usages.
 
 9. In entities, we will be able to see the names of the different entities present in the data, the number of records present in each entity, entity type(**default: Custom**) and many more. There are filters present on top of every column which gives user the ability to search a particular entity based on some criteria. By clicking on a particular entity, we can get its details like the **attributes** defining all the different attributes present in the data with their datatypes. To know more about the entities, visit [here](https://skypointcdpdocs.z22.web.core.windows.net/docs/entities.html)
 
