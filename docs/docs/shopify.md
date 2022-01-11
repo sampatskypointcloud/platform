@@ -10,9 +10,52 @@ To generate a API key + password combination, follow the [Private Apps](https://
 
 In order for SkyPoint to import the Shopify customer, products, abandoned checkouts and order details, the permissions read_orders and read_customers must be granted to the generated API key.
 
+**Integration with Shopify
+Prerequisites: One of the below prerequisites needs to be met for Skypoint cloud to access Shopify data
+1.	Add Imeplementation@skypointcloud.com email to shopify with admin rights to access shopify customer instance. 
+2.	Instead of providing SkyPoint access to their instance, they can choose to create a private app in Shopify to generate API keys and password. Share the API key and password with Skypoint cloud
+In case of the Prerequisite 1:
+1.	Log into Shopify  ( Eg: https://wateravenue.myshopify.com/admin) using Imeplementation@skypointcloud.com email id, generate or reset password to gain access
+2.	Once you are in the shopify application look for Apps in the left navigation menu 
+
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/shopify_status.jpg?raw=true)
 
-When we click on **Connect**, we can clearly see the entity details table that contains attributes namely Purpose, Table name, Entity Name with a checkbox option allowing the user to select/de-select a particular purpose based on requirements.
+3.	Scroll to the bottom of the page and find the link Manage Private Apps and click
+![image](https://user-images.githubusercontent.com/93347291/148921956-b1d74bf9-24a9-4654-abb2-891291f0ffe3.png)
+
+4.	On the top right corner of the page, you will find create new private App button as shown below. Please click this button
+![image](https://user-images.githubusercontent.com/93347291/148922065-7b441c3e-4a9a-4b4f-8192-0380ba444851.png)
+
+5.	Provide a name “SkypointCloud” to the Private App and provide emergency developer email as implementation@skypointcloud.com
+![image](https://user-images.githubusercontent.com/93347291/148922254-965b5aa2-b1ca-40ad-8934-70ea98a35809.png)
+
+6.	New Private app by name SkypointCloud will be created and listed as below
+![image](https://user-images.githubusercontent.com/93347291/148922339-1d797c48-00d3-4a51-8220-e575b0d8a878.png)
+
+7.	Click on “Skypointcloud” link to view Admin API page 
+8.	Copy the API Key and Password by clicking on the copy icon next to the field and paste it in a notepad. The key and Password are inputs for SkyPoint cloud platform to connect to shopify for ingestion. Keep them safe and confidential
+![image](https://user-images.githubusercontent.com/93347291/148922469-d1b2f9af-f9da-47d5-87a4-e5c757a2c6d1.png)
+
+9.	Click on “Show inactive Admin API permission” link. This will list down all the entities/features which can access using the API Key.
+![image](https://user-images.githubusercontent.com/93347291/148922546-6e2fcfb8-f0f9-4c88-9140-687f0ad6593d.png)
+
+10.	Select “Read access” from the drop down for all the entities as shown below and click on Save Button
+![image](https://user-images.githubusercontent.com/93347291/148922644-351e3eec-7ae1-4e17-9737-1b1e4f8fdab2.png)
+![image](https://user-images.githubusercontent.com/93347291/148922753-a1bec82e-1076-44ce-961f-e17711bb08c3.png)
+![image](https://user-images.githubusercontent.com/93347291/148922800-0e2bc5a9-a86d-479d-9ced-db0fef16b6a2.png)
+
+11.	Login to Skypoint cloud platform and chose appropriate tenant and instance
+12.	Click on Data -> Data flow menu
+13.	Click on Add Data flow on top of the page
+14.	Give a name to the Data flow you are about to create. This being a shopify Data flow, ideal to name it as Shopify and click Next
+15.	In the choose connector page, use the search box to find Shopify connector by typing shopify and click
+16.	Enter a display name which in this case can be Shopify
+17.	Click on connector tab
+18.	Enter hostname which is the customer specific hosting on shopify. Eg: wateravenue.myshopify.com
+19.	Enter the API Password saved at step 8
+20.	Enter the API Key saved at step 8
+21.	Click on connect
+22.	If the integration is successful, you will see a message “Data Loaded Successfully”
 
 ## Purposes
 
