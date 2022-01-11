@@ -5,6 +5,8 @@ In order to allow SkyPoint access to your Square account, you'll need:
 1. **API Key**
 2. **URL**
 
+![image](https://user-images.githubusercontent.com/93347291/148923723-2deb8587-f5c2-430b-b61c-95581c775b38.png)
+
 **Note** : For URL, there are two urls that can be used in order to fetch data from square connector.
 1. **Production URL**: To fetch data from the production environment, use **https://connect.squareup.com/**
 2. **Sandbox URL**: To fetch data from the sandbox environment, use **https://connect.squareupsandbox.com/**
