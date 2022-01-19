@@ -7,7 +7,32 @@ We're excited to announce our newest updates and releases! This article summariz
 
 # January 2022 updates
 
-The updates in January 2021 include new features.
+The updates in January 2021 include new features and bug fixes.
+
+## Sprint 215 Release
+
+### Resolved Issues: 
+
+#### SkyPoint Resolve:
+
+- **Pagination issue in Merge section** - Pagination issue has been fixed for merge section under stitch.
+- **Do not allow user to delete already mapped entity** - User cannot delete already mapped entity now which was leading to inconsistencies.
+
+### Feature Updates
+
+#### SkyPoint Dataflow:
+
+- **Visualize ERD's for Relationships** - ERD's for both user defined and system defined relationships can now be visualized to see the relationships between different entities.
+- **Show both User defined and System generated Relationships** - User can now view both the user defined and system defined relationships under Relationships list view.
+
+#### SkyPoint Profile:
+
+- **Create Audience from filtered Profile** - It is now possible to create Audiences from the filtered profile view giving user the ease for Audience creation.
+
+#### SkyPoint Resolve:
+
+- **Intelligent Mapping Support** - Intelligent mapping option has been provided which can be used by the user for semantic mapping where system automatically selects the required semantic traits. While Intelligent mapping is ON, user still can edit the mapping and save.
+
 
 ## Sprint 214 Release
 
