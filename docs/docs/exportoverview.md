@@ -1,6 +1,6 @@
 # Overview
 
-SkyPoint has the ability to Export data from any data source including pre-built connectors with popular applications (e.g. Shopify, Salesforce etc.), web activity through our JavaScript tag as well as custom data sources (e.g. Amazon S3, Azure Blob etc). 
+SkyPoint has the ability to Export data to any data source including pre-built connectors with popular applications (e.g. Shopify, Salesforce etc.), web activity through our JavaScript tag as well as custom data sources (e.g. Amazon S3, Azure Blob etc). 
 
 For more information on import data click here - [*Data Flow ingest*](connectors.md)
 
@@ -14,3 +14,13 @@ You can fiter the list of connectors from the drop down of type in the UI.The ca
 4. [*Klaviyo*](klaviyoexport.md)
 5. [*SalesForce Marketing Cloud*](sfmcexport.md)
 6. [*Campaign Monitor*](campaignmonitorexport.md)
+7. [*Facebook Ads Manager*]
+8. [*FHIR*]
+9. [*Google Ads*]
+10. [*Google Cloud Storage*]
+11. [*Microsoft Teams*]
+12. [*Optimove SFTP*]
+13. [*Power App*]
+14. [*Power Automate*]
+15. [*Salesforce Marketing Cloud*]
+16. [*SFTP*]
