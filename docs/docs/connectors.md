@@ -21,6 +21,8 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Azure Database for MySQL*
 - *Azure Database for PostgreSQL*
 - *Azure File Storage*
+- *Azure Key Vault*
+- *Azure Search*
 - *Azure SQL Database*
 - *Azure SQL Database Managed Instance*
 - *Azure Synapse Analytics (Formerly SQL DW)*
@@ -69,6 +71,9 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *HDFS*
 - *HTTP*
 - *SFTP*
+- *Data Relay*
+
+
 ### Generic Protocol
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/genericlistconnector.PNG?raw=true)
@@ -76,6 +81,8 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *ODBC*
 - *OData*
 - *REST*
+- *SharPoint Online List*
+
 ### NoSQL
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/nosqllistconnector.PNG?raw=true)
@@ -117,3 +124,12 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Web Table*
 - *Xero*
 - *Zoho*
+- *FHIR*
+- *Zenoti*
+- *Tapin 2*
+- *Survey Monkey*
+- *Optimove*
+- *Emarsys*
+- *Boulevard*
+- *Snowflake*
+- *Klaviyo*
