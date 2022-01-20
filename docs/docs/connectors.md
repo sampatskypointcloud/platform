@@ -9,7 +9,7 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
       - All Categories
 ### Azure
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/azurelistconnector.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Azure_Dataflows.PNG)
 
 - *Azure Blob Storage*
 - *Azure Cosmos DB (MongoDB API)*
