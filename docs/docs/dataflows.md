@@ -20,8 +20,10 @@ The data connectors move data from a selected data source to Skypoint Customer 3
       - **All Categories**
       - **Azure**
       - **Database**
+      - **Electronic Health Records**
       - **File**
       - **Generic Protocol**
+      - **Healthcare Payers**
       - **NoSQL**
       - **Services and Apps**
     ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/chooseconnector.PNG?raw=true)
