@@ -52,7 +52,7 @@ Client will have to create a service account and the connection details for the 
 
 Log on to **Google Cloud Platform** using service account credentials, navigate to **Service Accounts** and click on the three dots to locate **Manage Details**.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/GCP_Manage_Details.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/GCP_Manage_Details.png?raw=true)
 
 Click on **Manage Details** and find **keys** and **Create New Key**
 
