@@ -29,7 +29,7 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Azure Table Storage*
 ### Database
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/databaselistconnector.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Database_Dataflows.PNG)
 
 - *Amazon Redshift*
 - *Apache Impala*
