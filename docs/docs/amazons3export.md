@@ -7,9 +7,22 @@ Export lets you to export the cdm files to S3
 - Click on **Add export** on the left top corner of the screen.
     - Enter a Name. (Name starts with a letter and only **Letters** and **Numbers** are allowed. No Spcaes)
     - Display name (which displays the name in the UI of the export saved).
-    - Type. In the type select Amzon S3.
+    - Select Credentials
+       - Select from existing
+       - Create new
 
-## Step 02 - Export Source Data
+## Step 02 Select from existing
+**In order to allow SkyPoint access to your _Amazon S3_ account, you'll need the following details:**
+- **Select Dataflow**
+- **Bucket Name**  (Amazon S3 bucket name)
+- **Access Key ID** (Check with Amazon S3 source credentials.)
+- **Secret Access key**
+- **Region Name**
+- **Encryption**
+- Click **Next** Button
+           
+
+## Step 02 - Create New
 **In order to allow SkyPoint access to your _Amazon S3_ account, you'll need the following details:**
 - **Bucket Name** (Amazon S3 bucket name)
 - **Access key ID** (Check with Amazon S3 source credentials.)
@@ -21,5 +34,7 @@ Export lets you to export the cdm files to S3
 ## Step 03 - Entities to export
 Here all the **CDM** data will be available Entity wise.
 - Select the entities from the list to be exported
-- Click **Save** Button.
-    - The export will be started.
+- Click **Create** Button.
+- Click on "Destinations".
+- Click on the "Ellipsis" under Actions.
+- Click on "Run".
