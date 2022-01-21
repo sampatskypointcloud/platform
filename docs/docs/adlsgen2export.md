@@ -2,6 +2,8 @@
 
 Export lets you to export the cdm files to Azure Data Lake Storage Gen2
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/AzureDataLakeGen2_Export.PNG)
+
 ## Step 01 - Add export
 
 - Click on **Add export** on the left top corner of the screen.
