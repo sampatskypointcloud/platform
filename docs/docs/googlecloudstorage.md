@@ -48,6 +48,8 @@ Following details are required to establish connection with Google Cloud storage
 
 Client will have to create a service account and the connection details for the service account will be used to login to Google Cloud Platform.
 
+**Step 03 - Configure Google Cloud Platform**
+
 - **How to generate the JSON file mentioned in the previous step:**
 
 Log on to **Google Cloud Platform** using service account credentials, navigate to **Service Accounts** and click on the three dots to locate **Manage Details**.
@@ -123,7 +125,7 @@ The three Quote Character types in the advanced Quote Character dropdown are:
     - (') **Single Quote**
     - **No Quote Character**
 
-**Step 03 - Save**
+**Step 04 - Save**
 
 - Click Save Button.
 - You will be taken to the Dataflow page.
