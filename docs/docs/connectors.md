@@ -60,9 +60,26 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *Sybase*
 - *Teradata*
 - *Vertica*
+
+
+### EHR- Electronic Health Records
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/EHR_Dataflows.PNG)
+
+- *Allscripts*
+- *Canvas Medical*
+- *Cerner*
+- *ChartPath*
+- *Epic EMR Software*
+- *GeriMed*
+- *MatrixCare*
+- *Point Click Care*
+
+
+
 ### File
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/filelistconnector.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/File_Dataflows.PNG)
 
 - [*Amazon S3*](amazonsthree.md)
 - *FTP*
