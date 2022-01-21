@@ -93,7 +93,7 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 
 ### Generic Protocol
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/genericlistconnector.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Generic%20Protocol_Dataflows.PNG)
 
 - *ODBC*
 - *OData*
