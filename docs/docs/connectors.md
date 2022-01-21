@@ -100,16 +100,27 @@ SkyPoint ingests raw data and transforms it into Common Data Model (an open sour
 - *REST*
 - *SharPoint Online List*
 
+### Healthcare Payers
+
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/HealthcarePayers_Dataflows.PNG)
+
+- *Humana*
+- *MSSP*
+- *United Healthcare*
+
+
 ### NoSQL
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/nosqllistconnector.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/NoSQL_Dataflows.PNG)
 
 - *Cassandra*
 - *Couchbase*
 - *MongoDB*
+
+
 ### Services and Apps
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/serviceslistconnector.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ServicesandApps_Dataflows.PNG)
 
 - *Amazon Marketplace Web Service*
 - *Azhure Data Explorer (Kusto)*
