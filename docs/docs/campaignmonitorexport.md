@@ -2,17 +2,39 @@
 
 Export lets you to export the cdm files to Campaign Monitor.
 
-## Steps to Export
-1. Navigate to **Action** > **Export**. You will see all the differenet categories of storages that can be used for export.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/CampaignMonitor_export.PNG)
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/exportcommon.PNG?raw=true)
+## Step 01 - Add export
 
-2. Go to **Destinations** and click on ***Add Export***.
-3. Fill up the name and the display name of the export and click on the dropdown column to select one of the options. Here we select Campaign Monitor.
+- Click on **Add export** on the left top corner of the screen.
+    - Enter a Name. (Name starts with a letter and only **Letters** and **Numbers** are allowed. No Spcaes)
+    - Display name (which displays the name in the UI of the export saved).
+    - Select credentials:
+      - Select from existing
+      - Create new
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/campaignmonitorstep1.PNG?raw=true)
+## Step 02 - Select from existing
+**In order to allow SkyPoint access to your _Azure Data Lake Storage Gen2_ account, you'll need the following details:**
+-**Select Dataflow**
+- **API key**
+- **ClientID**
+- Click **Next** Button.
 
-4. As soon as we select it, there will be a choice to either select an existing dataflow or to create a new one.
-5. In case you are choosing to create a new one, fill up the **API Key** and the **Client ID** and then click on NEXT.
-6. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
-7. Click on **Save**. Your export will be started.
+## Step 02 - Create new
+**In order to allow SkyPoint access to your _Azure Data Lake Storage Gen2_ account, you'll need the following details:**
+- **API Key** (Check with Microsoft for Azure Data Lake Storage Gen2 credentials.)
+- **ClientID**
+- Click **Next** Button.
+
+## Step 03 - Entities to export
+Here all the **CDM** data will be available Entity wise.
+- Select the entities from the list to be exported
+- Click **Create** and then click on three dot button and select **Run**.
+    - The export will be started.
+
+
+
+
+
+
+
