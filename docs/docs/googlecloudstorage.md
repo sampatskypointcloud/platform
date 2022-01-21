@@ -6,18 +6,18 @@ Dataflows allows to integrate all your data sources by ingesting data from the s
 
 - Click on **Add dataflows** at the top of the screen.
 
-![image](https://user-images.githubusercontent.com/93347291/145796781-d163203f-1502-4973-8f7f-512690c2280a.png)
+![image](https://user-images.githubusercontent.com/93347291/145796781-d163203f-1502-4973-8f7f-512690c2280a.png?raw=true)
 
   - Enter a Name for the dataflow (name should start with letter and it should contain only letter and numbers, space and special characters are not allowed)
   - Click Next.
 
-![image](https://user-images.githubusercontent.com/93347291/145797129-3d91fdc3-6a29-486d-a254-5717a5a66109.png)
+![image](https://user-images.githubusercontent.com/93347291/145797129-3d91fdc3-6a29-486d-a254-5717a5a66109.png?raw=true)
 
 
   - Select the connector using the search bar at top right corner of the screen.
   - Click on Google Cloud Storage (S3 API).
 
-![image](https://user-images.githubusercontent.com/93347291/145796240-eb119299-e45c-45de-8b98-f87812400d5d.png)
+![image](https://user-images.githubusercontent.com/93347291/145796240-eb119299-e45c-45de-8b98-f87812400d5d.png?raw=true)
 
 
 **Step 02 - Access Source Data**
@@ -28,13 +28,13 @@ Dataflows allows to integrate all your data sources by ingesting data from the s
 - Clicking on save button will save the details you just entered
 - Clicking on Cancel button will take you back to the dataflow page
 
-![image](https://user-images.githubusercontent.com/93347291/145798277-9f72112e-b384-47fb-aa98-7627bbd5d720.png)
+![image](https://user-images.githubusercontent.com/93347291/145798277-9f72112e-b384-47fb-aa98-7627bbd5d720.png?raw=true)
 
 Click on connector Tab
 
 Following details are required to establish connection with Google Cloud storage
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/File_loaded.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/File_loaded.png?raw=true)
 
 - **Access Key ID** – (obtained from Google Cloud Platform, login using service account)
 - **Secret Access Key** – (obtained from GCP, login using service account)
@@ -56,12 +56,12 @@ Log on to **Google Cloud Platform** using service account credentials, navigate 
 
 Click on **Manage Details** and find **keys** and **Create New Key**
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Key_creation.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Key_creation.png?raw=true)
 
 
 Select the format as JSON and click on Create. Once the creation is completed, it will be downloaded and the same can be uploaded to **Service URL** while creating the Dataflow. This file contains configuration details.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/JSON_file.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/JSON_file.png?raw=true)
 
 Create roles and assign permissions to the roles which grants access to the buckets -to list and get the buckets.
 
@@ -79,7 +79,7 @@ The 3rd permission can be availed by creating a new Custom Role with only the 3r
 
 Once you select the Storage path you will see a notification Data loaded successfully.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Data_Loaded.png)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Data_Loaded.png?raw=true)
 
 Data from the source will be loaded to the table with headers File Name, Entity, Name, Datetime Format, Delimiter, First Row as Header, Advanced Settings.
 
@@ -96,13 +96,13 @@ The file name will be the name of file which exist in the source of Google Cloud
 - **Advanced Settings:**
  Advanced Settings will allow you to fine tune the import process with minute details.
  
-  ![image](https://user-images.githubusercontent.com/93347291/145802278-1e4872a6-b4da-4a04-9532-411a45c917d8.png)
+  ![image](https://user-images.githubusercontent.com/93347291/145802278-1e4872a6-b4da-4a04-9532-411a45c917d8.png?raw=true)
 
 **Advanced Settings:**
 
 Clicking the Advanced Settings icon opens a pop-up window with additional information - key factors of the source data and how it is organized. For any errors, check the data source for this additional information.
 
-![image](https://user-images.githubusercontent.com/93347291/145800950-7719c28e-4264-4306-85ba-a76e76b7c26f.png)
+![image](https://user-images.githubusercontent.com/93347291/145800950-7719c28e-4264-4306-85ba-a76e76b7c26f.png?raw=true)
 
 - **Compression Type:**
 Compresses the details from the source, Google Cloud Storage. (To identify what is the compression methods that is used, please check with your credentials.)
