@@ -3,7 +3,7 @@
 ## Steps to Export
 Export lets you to export the cdm files to Klaviyo.
 
-![Alt text]()
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Klaviyo_Export.PNG)
 
 ## Step 01 - Add export
 
@@ -16,7 +16,7 @@ Export lets you to export the cdm files to Klaviyo.
 
 ## Step 02 - Select from existing
 **In order to allow SkyPoint access to your Klaviyo account, you'll need the following details:**
--**Select Dataflow**
+- **Select Dataflow**
 - **API key**
 - Click **Next** Button.
 
