@@ -5,12 +5,10 @@ Export lets you to export the cdm files to Google Ads Manager.
 ## Steps to Export
 1. Navigate to **Active** > **Export**. You will see all the differenet categories of storages that can be used for export.
 
-![Alt text]()
-
 2. Go to **destimations** and click on ***Add Export** if the export connect is not there in the export gallery
 3. Fill up the name and the display name of the export and click on the dropdown column to select one of the type options. Here we select Google Ads.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/googleadsexportstep1.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/GoogleAdsManager_export.PNG)
 
 4. Fill up the **Customer ID** and **Developer Token** and then click on **Authenticate Google Ads**. It will open a pop up where you will be asked to sign in using your Google Ads Account.
 5. **Note** : In order to get the customer ID, sign in to the google ads portal and click on your profile icon present on the top right of the window. There will be a XXX-XXX-XXXX format number visible there, which will be your **customer ID**. To get your **developer token**, you need to sign in to the manager google ads account, and navigate to **Tools & Settings** > **API Center** and get the developer token from there. If not present, you can create a new one too from the same destination. 
