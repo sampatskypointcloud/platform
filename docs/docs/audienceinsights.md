@@ -6,6 +6,8 @@
 
 Audience overlap analysis shows how many and which customers are common to two or more Audiences. For example, how a Audience of frequent customers overlaps with a Audience that contains customers that are satisfied with your service or product. You can also analyze how the overlap changes for specific attributes.
 
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Overlap_AudienceInsights.PNG)
+
 ## Create Audience Insight Type
 1. Go to Activate> Audiences.
 2. Select Insights
@@ -27,6 +29,8 @@ Audience overlap analysis shows how many and which customers are common to two o
 ## Audience differentiators
 
 Audience differentiators help you find out what differentiates an audience from the rest of your customers or from another Audience. You just have to select a Audience and the system will identify profile attributes and measures that distinguish the selected Audience.
+
+![Alt text]()
 
 1. In case we select second option **Differentator**
 2. You will see the list of segments.  Choose segments
