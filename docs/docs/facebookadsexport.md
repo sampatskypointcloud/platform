@@ -10,7 +10,7 @@ Export lets you to export the cdm files to Facebook Ads Manager.
 2. Go to **Destinations** and click on ***Add Export*** if the export connect is not there in the export gallery
 3. Fill up the name and the display name of the export and click on the dropdown column to select one of the type options. Here we select Facebook Ads.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/facebookadsexportstep1.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Facebook%20Ads%20Manager_export%202.PNG)
 
 4. As soon as we select it, there will be a choice to either select an existing dataflow or to create a new one.
 5. In case you are choosing to create a new one, fill up the **APP Id**, **APP Secret**, **Access Token** and the **AD Account ID** and then click on NEXT.
