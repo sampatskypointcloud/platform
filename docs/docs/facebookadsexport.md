@@ -5,7 +5,7 @@ Export lets you to export the cdm files to Facebook Ads Manager.
 ## Steps to Export
 1. Navigate to **Activate** > **Export**. You will see all the different categories of storages that can be used for export.
 
-![Alt text]()
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Facebook%20Ads%20Manager_export.PNG)
 
 2. Go to **Destinations** and click on ***Add Export*** if the export connect is not there in the export gallery
 3. Fill up the name and the display name of the export and click on the dropdown column to select one of the type options. Here we select Facebook Ads.
