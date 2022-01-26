@@ -3,12 +3,12 @@
 Export lets you to export the cdm files to Facebook Ads Manager.
 
 ## Steps to Export
-1. Navigate to **Action** > **Export**. You will see all the differenet categories of storages that can be used for export.
+1. Navigate to **Activate** > **Export**. You will see all the different categories of storages that can be used for export.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/exportcommon.PNG?raw=true)
+![Alt text]()
 
-2. Go to **Destinations** and click on ***Add Export***.
-3. Fill up the name and the display name of the export and click on the dropdown column to select one of the options. Here we select Facebook Ads.
+2. Go to **Destinations** and click on ***Add Export*** if the export connect is not there in the export gallery
+3. Fill up the name and the display name of the export and click on the dropdown column to select one of the type options. Here we select Facebook Ads.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/facebookadsexportstep1.PNG?raw=true)
 
@@ -16,6 +16,21 @@ Export lets you to export the cdm files to Facebook Ads Manager.
 5. In case you are choosing to create a new one, fill up the **APP Id**, **APP Secret**, **Access Token** and the **AD Account ID** and then click on NEXT.
 6. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
 7. Click on **Save**. Your export will be started.
+8. In case you are choosing to select from existing, fill up the details **Select Account**, **APP ID**, **APP secret**, **Access Token**, **AD Account Id**.
+9. Click on Next
+10. Click on **Save**. Your export will be started.
+11. If the export connector- Facebook Ads manager is already present in the export gallery then click on setup.
+Fill the details- Name, Display name , select from options- Select from existing, Create new
+In case you are choosing to create a new one, fill up the **APP Id**, **APP Secret**, **Access Token** and the **AD Account ID** and then click on NEXT.
+6. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
+7. Click on **create** and then click on three dot button and select Run
+8.  Your export will be started.
+9. In case you are choosing to select from existing, fill up the details **Select Account**, **APP ID**, **APP secret**, **Access Token**, **AD Account Id**.
+10. Click on Next.
+Here all CDM data will be available Entity wise.
+ - Select the enities from the list to be exported
+ - Click Create and then click on three dot button and select Run.
+ - Your export will be started.
 
 ## Steps to Extract App Credentials for Facebook Export
 1. To export, you need to have an app created on developer's website.
