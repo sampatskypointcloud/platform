@@ -30,7 +30,7 @@ Audience overlap analysis shows how many and which customers are common to two o
 
 Audience differentiators help you find out what differentiates an audience from the rest of your customers or from another Audience. You just have to select a Audience and the system will identify profile attributes and measures that distinguish the selected Audience.
 
-![Alt text]()
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Differentiator_AudienceInsights.PNG)
 
 1. In case we select second option **Differentator**
 2. You will see the list of segments.  Choose segments
