@@ -15,18 +15,19 @@ Export lets you to export the cdm files to Facebook Ads Manager.
 4. As soon as we select it, there will be a choice to either select an existing dataflow or to create a new one.
 5. In case you are choosing to create a new one, fill up the **APP Id**, **APP Secret**, **Access Token** and the **AD Account ID** and then click on NEXT.
 6. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
-7. Click on **Save**. Your export will be started.
+7. Click on **create** and then click on three dot button and select Run
 8. In case you are choosing to select from existing, fill up the details **Select Account**, **APP ID**, **APP secret**, **Access Token**, **AD Account Id**.
 9. Click on Next
-10. Click on **Save**. Your export will be started.
-11. If the export connector- Facebook Ads manager is already present in the export gallery then click on setup.
-Fill the details- Name, Display name , select from options- Select from existing, Create new
+10. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
+11. Click on **create** and then click on three dot button and select Run
+12. If the export connector- Facebook Ads manager is already present in the export gallery then click on setup.
+13. Fill the details- Name, Display name , select from options- Select from existing, Create new
 In case you are choosing to create a new one, fill up the **APP Id**, **APP Secret**, **Access Token** and the **AD Account ID** and then click on NEXT.
-6. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
-7. Click on **create** and then click on three dot button and select Run
-8.  Your export will be started.
-9. In case you are choosing to select from existing, fill up the details **Select Account**, **APP ID**, **APP secret**, **Access Token**, **AD Account Id**.
-10. Click on Next.
+14. You will be able to see all the CDM data available infront of you entity wise. Choose all the entities that you will need to export.
+15. Click on **create** and then click on three dot button and select Run
+16.  Your export will be started.
+17. In case you are choosing to select from existing, fill up the details **Select Account**, **APP ID**, **APP secret**, **Access Token**, **AD Account Id**.
+18. Click on Next.
 Here all CDM data will be available Entity wise.
  - Select the enities from the list to be exported
  - Click Create and then click on three dot button and select Run.
