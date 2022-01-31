@@ -1,4 +1,4 @@
-# Security
+# Users
 
 We align to the NIST 800-207 standard for Zero Trust. This is the most vendor neutral, comprehensive standards, not just for government entities, but for any organization. It also encompasses other elements from organizations like Forrester’s ZTX and Gartner’s CARTA.
  
@@ -15,10 +15,10 @@ In left Navigation panel go to Settings. Under Settings there is an option "Secu
 User has option to Create user, Assign role, Delete user, Invite user and Unlink user.
 On the platform users can be invited by email and can be assigned the required role to access the SkyPoint platform.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Users.PNG)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Users.PNG?raw=true)
 
 ## Steps to Create a new User
-1. Navigate to **Settings** > **Security** where you will see all the users with their assigned roles in a tabular form.
+1. Navigate to **Settings** > **Platform** > **Users** where you will see all the users with their assigned roles in a tabular form.
 2. Click on *Create Users* written on top of the page. A small window will pop up on top of the page.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/createuser.PNG?raw=true)
@@ -27,7 +27,7 @@ On the platform users can be invited by email and can be assigned the required r
 4. Fill all the details of the user under the specific fields and click on Save.
 
 ## Steps to Invite a User
-1. Navigate to **Settings** > **Security** where you will see all the users with their assigned roles in a tabular form.
+1. Navigate to **Settings** > **Platform** > **Users**  where you will see all the users with their assigned roles in a tabular form.
 2. Click on *Invite Users* written on top of the page. A small window will pop up on the right side of the page.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/inviteuser.PNG?raw=true)
@@ -37,7 +37,7 @@ On the platform users can be invited by email and can be assigned the required r
 5. Click on **Save** to complete the assignment process. The user will be assigned with that particular role and the entry will be made in the details table.
 
 ## Steps to Assign a Role to a user
-1. Navigate to **Settings** > **Security** where you will see all the users with their assigned roles in a tabular form.
+1. Navigate to **Settings** > **Platform** > **Users**  where you will see all the users with their assigned roles in a tabular form.
 2. Click on *Assign Roles* written on top of the page. A small window will pop up on the right side of the page.
 
 ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/assignrole.PNG?raw=true)
@@ -47,7 +47,7 @@ On the platform users can be invited by email and can be assigned the required r
 5. Click on **Save** to complete the assignment process. The user will be assigned with that particular role and the entry will be made in the details table.
 
 ## Steps to Unlink User
-1. Navigate to **Settings** > **Security** where you will see all the users with their assigned roles in a tabular form.
+1. Navigate to **Settings** > **Platform** > **Users**  where you will see all the users with their assigned roles in a tabular form.
 2. Click on the checkbox on the side of the user which you want to unlink.
 3. You will see that the *Unlink users* button on top of the page will be enabled. Click on it to unlink the user/s.
 
@@ -55,7 +55,7 @@ On the platform users can be invited by email and can be assigned the required r
 
 
 ## Steps to Delete User
-1. Navigate to **Settings** > **Security** where you will see all the users with their assigned roles in a tabular form.
+1. Navigate to **Settings** > **Platform** > **Users**  where you will see all the users with their assigned roles in a tabular form.
 2. Click on the checkbox on the side of the user which you want to delete.
 3. You will see that the *Delete users* button on top of the page will be enabled. Click on it to delete the user/s.
 
@@ -104,7 +104,7 @@ On the platform users can be invited by email and can be assigned the required r
 ### Permissive Actions for Administrator
 
 1. All permissions available to the Contributor.
-2. Change settings on the **Settings** > **Platform**, including the working language and refresh schedules for your system processes.
+2. Change settings on the **Settings** > **Platform** > **Users** , including the working language and refresh schedules for your system processes.
 3. View and add users and specify roles using the Security page.
 4. Set up and Configure Audience destinations using the Export destinations page.
 5. Add and use the Power Apps connector to create apps with SkyPoint Cloud data.
