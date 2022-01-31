@@ -68,9 +68,7 @@
           href: rulematch.md
         - name: ML Match
           href: mlmatch.md
-        - name: Rule Merge
-          href: rulemerge.md
-        - name: ML Merge
+        - name: Merge
           href: mlmerge.md
 - name: Profile
   items:

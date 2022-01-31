@@ -25,3 +25,16 @@
     1. Click on the metrics to see the KPIs.
 
     1. Click on all attributes to see all the details of this customer.
+
+
+## Create Audience from Profile filters
+
+1. Click on show filter and select filters.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/CustomerProfileFilter.png?raw=true)
+2. Click on save filters as audience.
+3. Enter name and output entity name to the appropriate field.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/CustomerProfileSaveAudience.png?raw=true)
+4. Click on save.                         
+5. You can run segment now or later.                                       
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/CustomerProfileAudienceRun.png?raw=true)
+6. To check the audience, navigate to **Activate** > **Audiences**

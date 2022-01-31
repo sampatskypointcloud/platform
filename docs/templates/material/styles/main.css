@@ -75,10 +75,8 @@ h3 {
 
 h5 {
     font-size: 14px;
-    padding: 10px 0px;
 }
 
-article h1,
 article h2,
 article h3,
 article h4 {
@@ -86,9 +84,18 @@ article h4 {
     margin-bottom: 15px;
 }
 
+article h1 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
 article h4 {
     padding-bottom: 8px;
     border-bottom: 2px solid #ddd;
+}
+
+.affix h5 {
+	text-transform: initial;
 }
 
 /* NAVBAR */
@@ -150,7 +157,7 @@ article h4 {
     background-color: #fff;
     border-left: none;
     border-right: none;
-    width: 340px;
+    width: 280px;
 }
 
 .toc-filter {
@@ -170,12 +177,13 @@ article h4 {
 .sidetoc > .toc {
     background-color: #fff;
     overflow-x: hidden;
+	margin: 0 0 0 5px;
 }
 
 .sidetoc {
     background-color: #fff;
     border: none;
-    width: 340px;
+    width: 280px;
 }
 
 .affix ul ul > li > a:before {
@@ -184,7 +192,8 @@ article h4 {
 }
 
 .article.grid-right {
-    margin-left: 360px;
+    margin-left: 290px;
+	margin-top:107px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -279,6 +288,9 @@ pre {
 .toc .level1 > li, .toc li {
     font-size: 15px;
 }
+.toc ul{
+	margin: 0 0 0 15px;
+}
 
 .toc .nav > li > a {
     color: #000;
@@ -294,6 +306,7 @@ pre {
 
 .sideaffix {
     font-size: 14px;
+	margin-top: 5px;
 }
 
 .toc-filter > .clear-icon {
