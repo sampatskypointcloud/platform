@@ -190,14 +190,21 @@
           href: sessiondefaults.md
         - name: Users
           href: security.md
-        - name: Tenant Defaults
-          href: tenant.md
+        - name: Permissions
+          href: Permissions.md
+        - name: APIs
+          href: PlatformApi.md
     - name: Schedule
       href: schedule.md
     - name: Billing Info
       href: billing.md
     - name: Instances
-      href: instance.md
+      Items:
+        - name: Instances
+          href: instance.md
+        - name: Tenant Defaults
+          href: tenant.md
+      
 - name: Application Development  
   items:
     - name: Developer Portal 

@@ -11,8 +11,7 @@ A tabular representation of the actions taken by any user on this platform  with
 3. Action: The action done on this platform.
 4. Description: This is a text of the format <user> run <action> describing the user mapping with the action he/she has performed.
 5. Data: There is a button alloted to every row of action which on clicking gives a json data describing the category in which the action is performed.
-
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ActivityStream.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/PlatformActivityStream.png?raw=true)
 
 ## Tenant Activity Stream
 
@@ -22,5 +21,4 @@ A tabular representation of the status of certain actions performed on this plat
 3. Detail: A comment type of acknowledgement based on the action performed on this platform.
 4. Description: This is a text of the format <user> run <action> describing the user mapping with the action he/she has performed.
 5. Data: There is a button alloted to every row of action which on clicking gives a json data describing the category in which the action is performed.
-
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/TenantStream.PNG?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/PlatformTenantActivityStream.png?raw=true)
