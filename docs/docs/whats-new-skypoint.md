@@ -5,9 +5,46 @@ We're excited to announce our newest updates and releases! This article summariz
 > [!TIP]
 > To submit feature requests and product suggestions, email us at support@skypointcloud.com or use Github issues.
 
+# February 2022 updates
+
+The updates in Fenruary 2022 include new features.
+
+## Sprint 216 Release
+
+### Feature Upadates
+
+#### SkyPoint Profile:
+
+- **Show Enriched attributes in Profile details page** - User can now view the enriched attributes in Profile Details page.
+- **Predictive models output added in Profile details page** - User can now view the Prediction about the Profile in Profiles details page.
+- **Support Multiple details attributes from Timelines and view in customer Journey in Profile details page** - User can now add multiple( max 3) attributes when creating the timelines. The same will be visible under "Customer Journey" in Profile details page. 
+
+#### SkyPoint Predict:
+
+- **Custom Model added for Single Upload** - Users can now test their own model using the Custom model feature in SkyPoint Studio. Implementation supported for Single data upload in the current release.
+
+#### SkyPoint Automate:
+
+- **Activate section added in Navigation Panel** - Automate section added in Navigation panel in SkyPoint Studio. User can now go to  Power Apps, Power automate, Microsoft Teams, SkyPoint Api from here.
+
+#### SkyPoint Activate:
+
+- **Readable String Support added for Query builder in Audience** - User can now view the readable form of query from Audience query builder which will help in ease of understanding and usage.
+- **"Profile All records included" added in Audience Query builder** - There is no requirement to explicitly add Profile entity for saving the Audience. Application will automatically include all records from the Profile and Relate to the entity selected in Query builder of Audience.
+- **Select attributes to be downloaded in Audience** - USer can now select the Attributes to be downloaded from the Audience section.
+- **Select Attributes to be exported from each entity in Export** - User can now select attributes to be exported fromeach enity in export.
+
+#### SkyPoint Resolve:
+
+- **Cleanup moved before validation in Map process** - Design change implemented to add cleanup before validation in Map process.
+
+#### Settings and Admin
+
+- **Restrict multiple sign up from same email** - User is retricted from multiple sign up with same email in SkyPoint Studio.
+
 # January 2022 updates
 
-The updates in January 2021 include new features and bug fixes.
+The updates in January 2022 include new features and bug fixes.
 
 ## Sprint 215 Release
 
