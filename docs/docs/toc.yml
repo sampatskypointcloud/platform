@@ -196,8 +196,6 @@
           href: PlatformApi.md
     - name: Schedule
       href: schedule.md
-    - name: Billing Info
-      href: billing.md
     - name: Instances
       items:
         - name: Instances
