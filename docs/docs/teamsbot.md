@@ -1,4 +1,4 @@
-# SkyPoint Cloud Bot(Preview)
+# SkyPoint Cloud Bot
 
 Connect with Microsoft Teams to interact with our bot in order to gather relevant information regarding customer profiles from our platform.
 
