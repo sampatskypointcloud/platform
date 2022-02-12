@@ -1,4 +1,4 @@
-# SkyPoint Cloud Bot
+# SkyPoint Bot
 
 Connect with Microsoft Teams to interact with our bot in order to gather relevant information regarding customer profiles from our platform.
 
@@ -9,7 +9,7 @@ In order to set up and configure the bot, there are certain requirements that ne
 2. The Stitch process is complete.
 3. Fields are added to the search and filter index.
 
-## Functionalities offered by the SkyPoint Cloud bot
+## Functionalities offered by the SkyPoint Bot
 
 ## Login
 
