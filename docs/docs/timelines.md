@@ -1,9 +1,9 @@
 # Timelines
 
 ## Timelines
-In this section, we show timeline in the different profiles by defining timeline data in your entities. The first half of the section contains a tabular representation of all the created timelines with their information.
+In this section, we show timeline in the different profiles by defining timeline data in your entities. A tabular representation of all the created timelines with their information.
 
-![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ProfileTimelines.png?raw=true)
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ProfileTimeline.png?raw=true)
 
 Some of them are:
 1. Icon: Icon of the timeline. 
@@ -15,8 +15,6 @@ Some of them are:
 7. Details: Details fields of the timeline. Maximum 3 fields allowed. 
 8. Status : The status of the run command on timeline.
 9. Action: Click on **Edit** icon to edit the timeline and Click on **Delete** icon to delete the timeline.
-
-The second half of this section contains a tabular representation of the history regarding all the actions performed in this section.
 
 ## Steps to create a Timeline
 
@@ -62,3 +60,7 @@ The second half of this section contains a tabular representation of the history
 3. Full refresh: Running a full refresh will update all dataflow and data entities.
 4. Incremental refresh: When running an incremental refresh only the data that has changed gets updated. 
 5. Click on the **Run**.
+
+## View Run History
+Navigate to **Profile** > **Timelines** and click on **Run History**. A tabular representation of the history regarding all the actions performed in this section.
+![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/ProfileTimelinesRunHistory.png?raw=true)
