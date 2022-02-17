@@ -39,6 +39,7 @@ The updates in Fenruary 2022 include new features and bug fixes.
 #### SkyPoint Resolve:
 
 - **Redundant column for ML type Semantic mapping has been removed** - Now, user need not add redundant semantic mapping in ML type column in Map process.
+- **Custom labels maintained at Tenant level** - User need not need to create custom labels again and can utilize the same custom lables across Tenant for all Instances.
 
 #### Settings and Administration: 
 
