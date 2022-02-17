@@ -7,11 +7,46 @@ We're excited to announce our newest updates and releases! This article summariz
 
 # February 2022 updates
 
-The updates in Fenruary 2022 include new features.
+The updates in Fenruary 2022 include new features and bug fixes.
+
+## Sprint 217 Release
+
+### Resolved Issues 
+
+#### SkyPoint Dataflow: 
+- System is label to handle ingestion for File headers having quotes.
+- Default relationship type for Audience, Metrics and Timelines changed to System Type from User type.
+
+#### SkyPoint Automate: 
+- Power BI connector issue fixed. Now, user can use the connector to create the reports.
+
+### Feature Updates
+
+#### SkyPoint Dataflow:
+
+- **Mongo DB connector added for Ingestion** - Ingestion is now possible using the MongoDB as a data source.
+- **FTP connector added for Ingestion** - Ingestion is now possible using the Files in FTP location.
+
+#### SkyPoint Empower:
+
+- **UI for DSR page has been modified** -  Fluent UI migration done for DSR page.
+
+#### SkyPoint Activate:
+
+- **Query Builder in Audience Modified** - Query Builder UI changes implemented. New operator : IN and Between are supported now.
+- **Revinate connector added as export destination** - User can now export the entities to Revinate.
+
+#### SkyPoint Resolve:
+
+- **Redundant column for ML type Semantic mapping has been removed** - Now, user need not add redundant semantic mapping in ML type column in Map process.
+
+#### Settings and Administration: 
+
+- **Feature to select date and number format added at Instance level** - User can now select date and number format in Instance settings. The same gets reflected all through the application.
 
 ## Sprint 216 Release
 
-### Feature Upadates
+### Feature Updates
 
 #### SkyPoint Profile:
 
