@@ -1,6 +1,5 @@
-# Automate
+# Overview
 
-## Automate
 Connecting data sources with downstream business users is a time-consuming and resource-intensive effort. Many organizations struggle to empower citizen developers and democratize the use of data to optimize its value.
 
 With seamless [API integration](https://skypointprodapim.developer.azure-api.net/), SkyPoint Automate integrates your data with popular platforms and applications so anyone in the organization can make queries, build apps, and visualize information without straining already taxed IT resources.
