@@ -178,6 +178,8 @@
       href: consentmanager.md          
     - name: Reports
       href: privacyreports.md
+- name: Automate
+  href: automate.md
 - name: Settings
   items: 
     - name: Platform
