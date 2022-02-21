@@ -56,6 +56,10 @@
       href: entities.md
     - name: Relationships
       href: associations.md
+- name: Vault
+  items:
+    - name: Overview
+      href: vault.md
 - name: Resolve
   items:
     - name: Stitch

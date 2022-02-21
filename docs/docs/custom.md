@@ -7,7 +7,7 @@ In this section, contains a tabular representation of all the created custom mod
 
 Some of them are:
 1. Name: Name of the custom model. 
-2. Type: Type of thw custom model (Bulk Upload/Single Upload).
+2. Type: Type of the custom model (Bulk Upload/Single Upload).
 3. Status: The status of the run command on custom model.
 4. Score: Score of the custom model.
 5. Action: Click on action to Edit, Delete or Run the custom model.
