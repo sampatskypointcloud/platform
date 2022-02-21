@@ -19,6 +19,13 @@ SkyPoint is an industry leading customer data platform (CDP), zero trust data pr
 SkyPoint platform is architected as a a multi-tenant SaaS platform where, each customer is a tenant, and each tenant having one or more instances.
  
  ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Multitenant.png?raw=true)
+ 
+## How SkyPoint helps in deriving business decissions using in-built Prediction models.
+ 
+SkyPoint platform has multiple prediction models which can be used to predict the customer behavior based on customer's interactions over a period of time. These can be used to derive business decissions.
+ 
+ ![Alt text](https://github.com/skypointcloud/platform/blob/master/docs/doc_snippets/Predictions.png?raw=true)
+ 
 
 ## **SkyPoint platform glossary**
 
