@@ -137,3 +137,8 @@ Some of them are:
 6. Check/Uncheck to enable customization of the choice.
 7. Add items you want for the choice.
 8. Click on **Create**.
+
+## Vault API
+You can access vault using SkyPoint Studio or SkyPoint API. 
+> [!IMPORTANT]
+> Details of these APIs are listed on the [SkyPoint APIs reference](https://skypointprodapim.developer.azure-api.net/). They include additional information about operations, parameters, and responses.
